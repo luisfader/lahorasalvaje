@@ -2,53 +2,40 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Дикий час — Enciclopedia / Енциклопедија</title>
-<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Дивљи час — Енциклопедија / La hora salvaje — Enciclopedia</title>
+<meta name="description" content="Enciclopedia libre del universo Дикий час / Дивљи час / La hora salvaje de Robert Fader — Слободна енциклопедија универзума Дивљи час.">
+<link rel="icon" href="img/lugares/zmaj.jpg">
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<div id="content">
-<p style="text-align:right;"><a href="#es">Español</a> | <a href="#sr">Српски</a></p>
-
-<div id="es">
-<h1>Дикий час</h1>
-<div class="infobox">
-<table>
-<tr><th colspan="2">Дикий час</th></tr>
-<tr><td colspan="2" style="text-align:center;">Serie de novelas</td></tr>
-<tr><th>Autor</th><td>Robert Fader / Luis Fader</td></tr>
-<tr><th>Protagonistas</th><td>Luis Fader, Natasha</td></tr>
-<tr><th>Género</th><td>Fantasía urbana, resistencia cultural</td></tr>
-</table>
+<header id="top">
+  <button id="menu-btn" aria-label="Menú">☰</button>
+  <a id="logo" href="#/">
+    <span class="logo-mark">Ж</span>
+    <span class="logo-text"><b data-t="siteName"></b><small data-t="siteTag"></small></span>
+  </a>
+  <form id="search" autocomplete="off">
+    <input id="q" type="search" data-tp="searchPh">
+    <div id="suggest" hidden></div>
+  </form>
+  <div id="langs">
+    <button data-lang="es">ES</button><button data-lang="sr">СРП</button>
+  </div>
+</header>
+<div id="wrap">
+  <nav id="side"></nav>
+  <main id="page"></main>
 </div>
-<p><b>Дикий час</b> (La hora salvaje) es una serie de novelas que narra las aventuras de Luis Fader y Natasha en su lucha contra el imperialismo y diversas amenazas místicas.</p>
-<p>La serie combina fantasía urbana, mitología eslava, crítica antiimperialista y erotismo.</p>
-</div>
-
-<hr>
-
-<div id="sr">
-<h1>Дивљи час</h1>
-<div class="infobox">
-<table>
-<tr><th colspan="2">Дивљи час</th></tr>
-<tr><td colspan="2" style="text-align:center;">Серија романа</td></tr>
-<tr><th>Аутор</th><td>Роберт Фадер / Луис Фадер</td></tr>
-<tr><th>Протагонисти</th><td>Луис Фадер, Наташа</td></tr>
-<tr><th>Жанр</th><td>Урбана фантазија, културни отпор</td></tr>
-</table>
-</div>
-<p><b>Дивљи час</b> је серија романа која прича авантуре Луиса Фадера и Наташе у борби против империјализма и разних мистичних претњи.</p>
-<p>Серија комбинује урбану фантазију, словенску митологију, антиимперијалистичку критику и еротику.</p>
-</div>
-
-<div class="navbox">
-<a href="personajes.html">Personajes / Ликови</a> · 
-<a href="lugares.html">Lugares / Места</a> · 
-<a href="enemigos.html">Enemigos / Непријатељи</a> · 
-<a href="conceptos.html">Conceptos / Појмови</a> · 
-<a href="escenas.html">Escenas / Сцене</a> · 
-<a href="villano.html">Villano potencial / Потенцијални зликовац</a>
-</div>
-</div>
+<footer id="foot"></footer>
+<script src="data/articulos-personajes.js"></script>
+<script src="data/articulos-lugares.js"></script>
+<script src="data/articulos-enemigos.js"></script>
+<script src="data/articulos-conceptos.js"></script>
+<script src="data/articulos-escenas.js"></script>
+<script src="data/articulos-analogias.js"></script>
+<script src="data/articulos-libros.js"></script>
+<script src="data/villano.js"></script>
+<script src="assets/app.js"></script>
 </body>
 </html>
