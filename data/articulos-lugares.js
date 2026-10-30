@@ -12,12 +12,16 @@
     sr: [['Држава', 'Србија'], ['Реке', 'Дунав и Сава'], ['Кључна места', '[[kalemegdan]], [[kula-nebojsa]], [[knez-mihailova]], [[skadarlija]], [[hram-svetog-save]], [[avala]], [[zedanj]]'], ['Заштитник', '[[zmaj]]'], ['Романи', '[[libro-dikij-chas]], [[libro-plac-suma]], [[libro-drustvene-mreze]], [[libro-dc6]]']]
   },
   es: `<p><b>Belgrado</b> es el corazón de la saga. La primera novela la presenta como «una ciudad con un secreto»: bajo sus calles y sus antiguas murallas se esconden fuerzas de las que se prefiere no hablar. Natasha la llama «la ciudad de dos almas», y la novela la describe como un ser vivo que respira, se cura y elige: «A veces la ciudad te elige a ti. Y entonces no hay vuelta atrás».</p>
+<figure class="thumb"><img src="img/lugares/spomenik.jpg" alt="" data-cap="El monumento al Vencedor, en Kalemegdan."><figcaption>El monumento al Vencedor, en Kalemegdan.</figcaption></figure>
+<figure class="thumb"><img src="img/lugares/zmaj-beograd.jpg" alt="" data-cap="Zmaj sobre Belgrado."><figcaption>Zmaj sobre Belgrado.</figcaption></figure>
 <h2>Belgrado en la saga</h2>
 <p>La ciudad sufre una [[divlji-cas|hora salvaje]] cada mil años. En la primera novela, en la Plaza de la República la gente se detiene sin recordar adónde iba, alguien ríe demasiado fuerte y demasiado tiempo… hasta que estalla el caos y [[ala-artan]] emerge del Danubio. Más tarde Belgrado es asediada por los [[dirigibles-fantasma]] de [[ahmed-iii]] y enfermada de pantallas por el [[algoritmo-supremo]].</p>
 <p>Al comienzo de la segunda novela, Belgrado «ya no susurraba: hablaba en voz alta, a través de las paredes, de los rostros». Luis pinta murales junto a la Beton hala, a orillas del Sava, y mucha gente ya lo conoce. Natasha y Luis acaban construyendo una casa cerca de la ciudad, entre colinas y caminos largos.</p>
 <h2>Origen</h2>
 <p>El autor cuenta que la saga nació porque un conocido estadounidense le dijo que Belgrado no le había gustado. Toda la serie es, en cierto modo, una respuesta a esa frase.</p>`,
   sr: `<p><b>Београд</b> је срце саге. Први роман га представља као „град са тајном“: испод његових улица и древних зидина крију се силе о којима се радије ћути. Наташа га зове „градом са две душе“, а роман га описује као живо биће које дише, лечи се и бира: „Понекад град изабере тебе. И тада нема повратка.“</p>
+<figure class="thumb"><img src="img/lugares/spomenik.jpg" alt="" data-cap="Споменик Победнику на Калемегдану."><figcaption>Споменик Победнику на Калемегдану.</figcaption></figure>
+<figure class="thumb"><img src="img/lugares/zmaj-beograd.jpg" alt="" data-cap="Змај изнад Београда."><figcaption>Змај изнад Београда.</figcaption></figure>
 <h2>Београд у саги</h2>
 <p>Град једном у хиљаду година доживи [[divlji-cas|Дивљи час]]. У првом роману, на Тргу републике људи застају не сећајући се куда су пошли, неко се смеје прегласно и предуго… док не избије хаос и из Дунава не изрони [[ala-artan|Ала-Артан]]. Касније Београд опседају [[dirigibles-fantasma|сабласни дирижабли]] [[ahmed-iii|Ахмеда Трећег]], а [[algoritmo-supremo|Врховни алгоритам]] га разболи од екрана.</p>
 <p>На почетку другог романа Београд „више није шапутао: говорио је наглас, кроз зидове, кроз лица“. Луис слика мурале код Бетон хале, на обали Саве, и многи га већ познају. Наташа и Луис на крају граде кућу недалеко од града, међу брдима и дугим путевима.</p>
@@ -28,8 +32,8 @@
 
 {
   id: 'kalemegdan', cat: 'lugares', order: 2, featured: true,
-  img: 'img/lugares/kalemegdan.jpg',
-  cap: { es: 'La fortaleza de Kalemegdan y el monumento al Vencedor.', sr: 'Калемегданска тврђава и споменик Победнику.' },
+  img: 'img/belgrado/01-kalemegdan.jpg',
+  cap: { es: 'Luis y Natasha paseando por Kalemegdan.', sr: 'Луис и Наташа у шетњи Калемегданом.' },
   t: { es: 'Kalemegdan', sr: 'Калемегдан' }, alt: ['fortaleza', 'тврђава'],
   sum: { es: 'La fortaleza sobre la confluencia del Sava y el Danubio: amuleto, boda y última batalla.', sr: 'Тврђава над ушћем Саве у Дунав: амајлија, венчање и последња битка.' },
   info: {
@@ -37,6 +41,8 @@
     sr: [['Град', '[[belgrado|Београд]]'], ['Поглед', 'Ушће Саве у Дунав'], ['Налаз', '[[amuleto-kalemegdan|Амајлија]] (први камен)'], ['Догађаји', 'Венчање Луиса и Наташе; одбрана од [[ahmed-iii|Ахмеда Трећег]]; финале против [[algoritmo-supremo|Врховног алгоритма]]'], ['Пиће', '[[gorki-list|Горки лист]] на балкону']]
   },
   es: `<p><b>Kalemegdan</b> es la antigua fortaleza de Belgrado, sobre la confluencia del Sava y el Danubio. «Aquí ocurrieron muchas batallas —explica Natasha—. Esta fortaleza protegió la ciudad durante siglos. ¿Ves estos muros antiguos? Son restos de los romanos y de los turcos». A ella le encanta por su historia y por la vista de los ríos, aunque no le gustan los días con demasiados turistas.</p>
+<figure class="thumb"><img src="img/belgrado/12-kalemegdan.jpg" alt="" data-cap="Natasha cuenta la historia de la fortaleza (cap. 12)."><figcaption>Natasha cuenta la historia de la fortaleza (cap. 12).</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/02-zakat.jpg" alt="" data-cap="El atardecer sobre los ríos, capítulo 2."><figcaption>El atardecer sobre los ríos, capítulo 2.</figcaption></figure>
 <h2>En la saga</h2>
 <ul>
 <li>Es el <b>primer punto del mapa</b> de las [[piedras-magicas]]: allí la pareja encuentra el [[amuleto-kalemegdan|amuleto]] y Natasha se enfrenta por primera vez a [[marina]] y [[katarina]] ([[escena-mordisco-kalemegdan]]).</li>
@@ -46,6 +52,8 @@
 <li>En [[libro-drustvene-mreze]] todo empieza y termina en el mismo banco de Kalemegdan, con una copa de [[gorki-list]].</li>
 </ul>`,
   sr: `<p><b>Калемегдан</b> је стара београдска тврђава над ушћем Саве у Дунав. „Овде су се водиле многе битке“, објашњава Наташа. „Ова тврђава је вековима бранила град. Видиш ове древне зидине? То су остаци из времена Римљана и Турака.“ Воли га због историје и погледа на реке, мада не воли дане када је ту превише туриста.</p>
+<figure class="thumb"><img src="img/belgrado/12-kalemegdan.jpg" alt="" data-cap="Наташа прича историју тврђаве (12. поглавље)."><figcaption>Наташа прича историју тврђаве (12. поглавље).</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/02-zakat.jpg" alt="" data-cap="Залазак над рекама, 2. поглавље."><figcaption>Залазак над рекама, 2. поглавље.</figcaption></figure>
 <h2>У саги</h2>
 <ul>
 <li>То је <b>прва тачка на мапи</b> [[piedras-magicas|магичног камења]]: ту пар проналази [[amuleto-kalemegdan|амајлију]], а Наташа се први пут суочава са [[marina|Марином]] и [[katarina|Катарином]] ([[escena-mordisco-kalemegdan]]).</li>
@@ -59,8 +67,8 @@
 
 {
   id: 'kula-nebojsa', cat: 'lugares', order: 3,
-  img: 'img/lugares/reka.jpg',
-  cap: { es: 'Las murallas sobre el río.', sr: 'Бедеми над реком.' },
+  img: 'img/belgrado/27-u-bashni.jpg',
+  cap: { es: 'Las agentes de Oriente ante la torre Nebojša.', sr: 'Агенткиње Истока пред кулом Небојшом.' },
   t: { es: 'Torre Nebojša', sr: 'Кула Небојша' }, alt: ['Nebojsa', 'Небойша'],
   sum: { es: 'La vieja torre junto al río donde se reúnen los conspiradores.', sr: 'Стара кула крај реке у којој се састају завереници.' },
   info: {
@@ -68,8 +76,12 @@
     sr: [['Град', '[[belgrado|Београд]]'], ['Улога у саги', 'Седиште [[ala-artan|Артана]], [[sofia|Софије]] и [[john|Џона]]'], ['Битка', '[[escena-batalla-ala]]']]
   },
   es: `<p>«En Belgrado hay una vieja torre. La torre Nebojša». Alta, oscura, pesada, se alza junto al río «como un guardián silencioso que observa la ciudad desde hace siglos». De día parece historia; de noche, otra cosa.</p>
+<figure class="thumb"><img src="img/lugares/reka.jpg" alt="" data-cap="Las murallas sobre el río."><figcaption>Las murallas sobre el río.</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/04-zagovor.jpg" alt="" data-cap="La conjura en la torre (cap. 4)."><figcaption>La conjura en la torre (cap. 4).</figcaption></figure>
 <p>En una de sus ventanas arde una luz: dentro, alrededor de una mesa de madera, se reúnen [[ala-artan|Artan]], [[sofia|Sofía]] y [[john|John]]. Sus muros de piedra «absorbían no solo el frío, sino también las decisiones ajenas tomadas aquí antes». En la torre se produce el enfrentamiento armado con Luis y Natasha, y sobre ella aparece Artan transformado en gigante cuando el Danubio estalla. La torre «tembló como si la propia tierra bajo Belgrado gimiera».</p>`,
   sr: `<p>„У Београду постоји стара кула. Кула Небојша.“ Висока, тамна, тешка, уздиже се крај реке „као ћутљиви стражар који вековима посматра град“. Дању изгледа као историја; ноћу — као нешто друго.</p>
+<figure class="thumb"><img src="img/lugares/reka.jpg" alt="" data-cap="Бедеми над реком."><figcaption>Бедеми над реком.</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/04-zagovor.jpg" alt="" data-cap="Завера у кули (4. поглавље)."><figcaption>Завера у кули (4. поглавље).</figcaption></figure>
 <p>На једном прозору гори светло: унутра се око дрвеног стола састају [[ala-artan|Артан]], [[sofia|Софија]] и [[john|Џон]]. Њени камени зидови „упијали су не само хладноћу, него и туђе одлуке које су ту раније донете“. У кули се одиграва оружани сукоб са Луисом и Наташом, а изнад ње се појављује Артан претворен у дива кад Дунав експлодира. Кула је „задрхтала као да је сама земља испод Београда застењала“.</p>`,
   see: ['ala-artan', 'escena-leccion-geografia']
 },
@@ -110,6 +122,8 @@
 
 {
   id: 'hram-svetog-save', cat: 'lugares', order: 6,
+  img: 'img/belgrado/20-irina-kamen.jpg',
+  cap: { es: 'Una de las piedras mágicas en manos de Irina.', sr: 'Један од магичних камена у Ирининим рукама.' },
   t: { es: 'Templo de San Sava', sr: 'Храм Светог Саве' },
   sum: { es: 'El gran templo blanco: tercer punto del mapa de las piedras.', sr: 'Велики бели храм: трећа тачка мапе камења.' },
   info: {
@@ -123,6 +137,8 @@
 
 {
   id: 'avala', cat: 'lugares', order: 7,
+  img: 'img/belgrado/24-avala.jpg',
+  cap: { es: 'Camino de Avala en la moto de Natasha.', sr: 'На путу ка Авали, на Наташином мотору.' },
   t: { es: 'Avala', sr: 'Авала' },
   sum: { es: 'La montaña símbolo a la que Natasha lleva a Luis en moto.', sr: 'Планина-симбол до које Наташа вози Луиса мотором.' },
   info: { es: [['Cerca de', '[[belgrado|Belgrado]]'], ['Transporte', 'Moto de Natasha']], sr: [['Близу', '[[belgrado|Београда]]'], ['Превоз', 'Наташин мотор']] },
@@ -133,6 +149,8 @@
 
 {
   id: 'zedanj', cat: 'lugares', order: 8,
+  img: 'img/belgrado/25-zedanj.jpg',
+  cap: { es: 'La pelea en Zedanj (cap. 25).', sr: 'Борба на Зедању (25. поглавље).' },
   t: { es: 'Zedanj', sr: 'Зедањ' },
   sum: { es: 'Meseta escondida sobre el río: último punto del mapa y lugar del secuestro.', sr: 'Скривена висораван над реком: последња тачка мапе и место отмице.' },
   info: { es: [['Tipo', 'Meseta rocosa'], ['Evento', '[[escena-secuestro-zedanj]]']], sr: [['Тип', 'Каменита висораван'], ['Догађај', '[[escena-secuestro-zedanj]]']] },
@@ -216,8 +234,10 @@
   sum: { es: 'La capital española enloquecida tras las luces del carnaval.', sr: 'Шпанска престоница која полуди после светала на карневалу.' },
   info: { es: [['País', 'España'], ['Novela', '[[libro-karneval]]'], ['Lugares', '[[biblioteca-nacional-espana]], [[lavapies]], Paseo de Recoletos, Atocha, Vistalegre'], ['Amenazas', '[[tauran]], [[ejercito-fantasma]]']], sr: [['Држава', 'Шпанија'], ['Роман', '[[libro-karneval]]'], ['Места', '[[biblioteca-nacional-espana|Народна библиотека Шпаније]], [[lavapies|Лавапјес]], Пасео де Реколетос, Аточа, Висталегре'], ['Претње', '[[tauran|Тауран]], [[ejercito-fantasma|сабласна војска]]']] },
   es: `<p>«Madrid no despertó como se había dormido». Después del carnaval, en vez de confeti y cansancio, la ciudad amanece en una locura extraña: hacia las tres de la madrugada aparecieron luces sobre la parte occidental y, minutos después, cayeron. Los primeros testigos creyeron que era parte del espectáculo.</p>
+<figure class="thumb"><img src="img/escenas/madrid-13-4.jpg" alt="" data-cap="Luis frente al rey fantasma."><figcaption>Luis frente al rey fantasma.</figcaption></figure>
 <p>La gente pierde la razón, las estatuas cobran vida, las margaritas muestran dientes y los toreros se infectan. [[mariano-ferreira|Mariano Ferreira]] llama a Luis y Natasha, que vuelan desde los Balcanes. La novela se pregunta quién está detrás, por qué el objetivo es precisamente España y qué papel juega la [[alianza-del-norte]]. Escenarios: [[lavapies|Lavapiés]], la [[biblioteca-nacional-espana|Biblioteca Nacional]], el Paseo de Recoletos y Carabanchel. Mientras miles se esconden en el metro, el programa «Madrid sin secretos» bate récords de audiencia.</p>`,
   sr: `<p>„Мадрид се није пробудио онакав какав је заспао.“ После карневала, уместо конфета и умора, град осване у чудном лудилу: око три сата ујутру изнад западног дела појавила су се светла и после неколико минута пала. Први сведоци су мислили да је то део представе.</p>
+<figure class="thumb"><img src="img/escenas/madrid-13-4.jpg" alt="" data-cap="Луис пред сабласним краљем."><figcaption>Луис пред сабласним краљем.</figcaption></figure>
 <p>Људи губе разум, статуе оживљавају, красуљци показују зубе, а тореадори се заражавају. [[mariano-ferreira|Маријано Фереира]] позива Луиса и Наташу, који лете са Балкана. Роман се пита ко стоји иза свега, зашто је мета баш Шпанија и какву улогу игра [[alianza-del-norte|Савез Севера]]. Позорнице: [[lavapies|Лавапјес]], [[biblioteca-nacional-espana|Народна библиотека]], Пасео де Реколетос и Карабанчел. Док се хиљаде крију у метроу, емисија „Мадрид без тајни“ обара рекорде гледаности.</p>`,
   see: ['tauran', 'ejercito-fantasma', 'libro-karneval']
 },
@@ -258,14 +278,100 @@
 
 {
   id: 'venecia', cat: 'lugares', order: 31,
-  img: 'img/portadas/venecija.jpg',
-  cap: { es: 'Venecia de noche.', sr: 'Венеција ноћу.' },
+  img: 'img/personajes/natalia-venice-4.jpg',
+  cap: { es: 'Natalia ante los canales de Venecia.', sr: 'Наталија пред венецијанским каналима.' },
   t: { es: 'Venecia', sr: 'Венеција' }, alt: ['Venezia'],
   sum: { es: 'Ciudad de máscaras que oculta la máquina que roba almas.', sr: 'Град маски који крије машину што краде душе.' },
   info: { es: [['País', 'Italia'], ['Novela', '[[libro-venecia]]'], ['Amenaza', '[[maquina-veneciana]]']], sr: [['Држава', 'Италија'], ['Роман', '[[libro-venecia]]'], ['Претња', '[[maquina-veneciana|Венецијанска машина]]']] },
-  es: `<p><b>Venecia</b>, «ciudad de máscaras y de antiguos secretos», es el escenario de [[libro-venecia]]. Cuando llega una desesperada petición de ayuda, Luis y Natasha viajan a la laguna para impedir la catástrofe causada por la [[maquina-veneciana]]. Es la novela de los celos: una mujer despierta en Natasha una rivalidad feroz y ella está dispuesta a todo para demostrar su poder sobre Luis.</p>`,
-  sr: `<p><b>Венеција</b>, „град маски и древних тајни“, позорница је романа [[libro-venecia]]. Када стигне очајнички позив у помоћ, Луис и Наташа путују у лагуну да спрече катастрофу коју изазива [[maquina-veneciana|венецијанска машина]]. То је роман љубоморе: једна жена у Наташи буди жестоко ривалство, а она је спремна на све да докаже своју моћ над Луисом.</p>`,
-  see: ['maquina-veneciana']
+  es: `<p><b>Venecia</b>, «ciudad de máscaras y de antiguos secretos», es el escenario de [[libro-venecia]]. Cuando llega una desesperada petición de ayuda, Luis y Natasha viajan a la laguna para impedir la catástrofe causada por la [[maquina-veneciana]]. Es la novela de los celos: una mujer despierta en Natasha una rivalidad feroz y ella está dispuesta a todo para demostrar su poder sobre Luis.</p>
+<h2>La Venecia de la saga</h2>
+<p>Luis y Natasha aterrizan en el aeropuerto Marco Polo, donde el aire húmedo tiene «una pesadez extraña». Los esperan un viejo Fiat 600 y una góndola que avanza sin remos por el Gran Canal hasta el [[palacio-submarino]] de [[natalia-veneciana|Natalia]] y [[roberto|Roberto]]. La máquina está escondida en el [[arsenal]]; la plaza de San Marco se convierte en el cuartel de un ejército de hombres hipnotizados y luego en el lugar donde las mujeres de la ciudad se plantan. Una cúpula de luz encierra la ciudad hasta que se rompe «en miles de chispas que no queman a nadie».</p>`,
+  sr: `<p><b>Венеција</b>, „град маски и древних тајни“, позорница је романа [[libro-venecia]]. Када стигне очајнички позив у помоћ, Луис и Наташа путују у лагуну да спрече катастрофу коју изазива [[maquina-veneciana|венецијанска машина]]. То је роман љубоморе: једна жена у Наташи буди жестоко ривалство, а она је спремна на све да докаже своју моћ над Луисом.</p>
+<h2>Венеција у саги</h2>
+<p>Луис и Наташа слећу на аеродром Марко Поло, где влажан ваздух има „чудну тежину“. Чекају их стари фијат 600 и гондола која без весла плови Великим каналом до [[palacio-submarino|подводне палате]] [[natalia-veneciana|Наталије]] и [[roberto|Роберта]]. Машина је скривена у [[arsenal|Арсеналу]]; трг Светог Марка постаје штаб војске хипнотисаних мушкараца, а затим место где се жене града постројавају. Купола од светлости затвара град док се не распрсне „у хиљаде искри које никога не пеку“.</p>`,
+  see: ['maquina-veneciana', 'arsenal', 'palacio-submarino', 'mcgregor']
+}
+,
+
+{
+  id: 'buenos-aires', cat: 'lugares', order: 15, nuevo: true,
+  img: 'img/portadas/tango.jpg',
+  cap: { es: 'Buenos Aires en «El tango más triste».', sr: 'Буенос Ајрес у „Најтужнијем тангу“.' },
+  t: { es: 'Buenos Aires', sr: 'Буенос Ајрес' }, alt: ['Buenos Aires', 'Casa Rosada', 'Florida'],
+  sum: { es: 'La capital argentina donde los hombres no dejan de llorar.', sr: 'Аргентинска престоница у којој мушкарци не престају да плачу.' },
+  info: {
+    es: [['País', 'Argentina'], ['Novela', '[[libro-tango]]'], ['Lugares', 'Calle Florida, Casa Rosada'], ['Amenaza', '[[llanto-de-los-hombres]]']],
+    sr: [['Држава', 'Аргентина'], ['Роман', '[[libro-tango]]'], ['Места', 'Улица Флорида, Каса Росада'], ['Претња', '[[llanto-de-los-hombres|Епидемија плача]]']]
+  },
+  es: `<p><b>Buenos Aires</b> es el escenario de [[libro-tango]], la primera novela de la saga escrita directamente en español. Allí vive [[sergio|Sergio]], que llama a Luis cuando en Belgrado es de noche y allá «son las cuatro de la tarde». En la calle Florida el diariero llora sobre las revistas; en la radio, el relator; en los edificios, los porteros. La Casa Rosada, sede del gobierno, está «custodiada por extranjeros».</p>
+<p>Para Luis la ciudad es también una deuda: «En Buenos Aires el tango lo bailan los turistas y los viejos», dice, para no reconocer que nunca se animó a bailarlo con Natasha.</p>`,
+  sr: `<p><b>Буенос Ајрес</b> је позорница романа [[libro-tango]], првог романа саге написаног директно на шпанском. Ту живи [[sergio|Серхио]], који зове Луиса кад је у Београду ноћ, а тамо „четири поподне“. У улици Флорида продавац новина плаче над часописима; на радију — спикер; у зградама — портири. Каса Росада, седиште владе, „чувају странци“.</p>
+<p>За Луиса је град и дуг: „У Буенос Ајресу танго играју туристи и старци“, каже, да не би признао да се никада није усудио да га заигра са Наташом.</p>`,
+  see: ['llanto-de-los-hombres', 'tango-mas-triste']
+},
+
+{
+  id: 'arsenal', cat: 'lugares', order: 32, nuevo: true,
+  img: 'img/portadas/venecija-ru.jpg',
+  cap: { es: 'Venecia, donde se esconde la máquina.', sr: 'Венеција, у којој се крије машина.' },
+  t: { es: 'El Arsenal de Venecia', sr: 'Венецијански Арсенал' }, alt: ['Arsenal', 'Арсенал'],
+  sum: { es: 'Los antiguos astilleros donde McGregor esconde la máquina que roba almas.', sr: 'Стара бродоградилишта у којима Макгрегор крије машину која краде душе.' },
+  info: { es: [['Ciudad', '[[venecia|Venecia]]'], ['Ocupante', '[[mcgregor]]'], ['Contenido', '[[maquina-veneciana]]']], sr: [['Град', '[[venecia|Венеција]]'], ['Становник', '[[mcgregor|Макгрегор]]'], ['Садржај', '[[maquina-veneciana|Венецијанска машина]]']] },
+  es: `<p>El <b>Arsenal</b> es el antiguo complejo de astilleros de Venecia. «Aquí antes se construían barcos, y en el aire todavía quedaba la memoria de la madera, la resina, el hierro, la sal marina y el trabajo humano. Ahora todo eso estaba arruinado por el olor a ozono, a metal recalentado». Allí [[mcgregor|McGregor]] instala su sala de mando y su [[maquina-veneciana|máquina]], y a su patio llegan decenas de hombres sin saber por qué: «Me dijeron que acá daban entradas gratis para el fútbol».</p>
+<p>Es el escenario de la batalla en la que Luis cae bajo la máquina, del golpe de Roberto que la destruye y de la mitad «de arriba» de la [[escena-anticupula|anticúpula]].</p>`,
+  sr: `<p><b>Арсенал</b> је стари комплекс бродоградилишта у Венецији. „Овде су се некада градили бродови, и у ваздуху је још остало сећање на дрво, смолу, гвожђе, морску со и људски рад. Сада је све то покварио мирис озона и прегрејаног метала.“ Ту [[mcgregor|Макгрегор]] поставља своју командну салу и [[maquina-veneciana|машину]], а у његово двориште долазе десетине мушкараца не знајући зашто: „Рекли су ми да овде деле бесплатне карте за фудбал.“</p>
+<p>То је позорница битке у којој Луис пада под машину, Робертовог ударца који је разбија и „горње“ половине [[escena-anticupula|антикуполе]].</p>`,
+  see: ['mcgregor', 'maquina-veneciana']
+},
+
+{
+  id: 'palacio-submarino', cat: 'lugares', order: 33, nuevo: true,
+  img: 'img/personajes/natalia-venice-1.jpg',
+  cap: { es: 'Natalia, señora del palacio bajo el agua.', sr: 'Наталија, господарица палате под водом.' },
+  t: { es: 'El palacio submarino', sr: 'Подводна палата' }, alt: ['palacio', 'палата', 'Venecia sumergida'],
+  sum: { es: 'El palacio bajo los canales donde reinan Roberto y Natalia.', sr: 'Палата испод канала у којој владају Роберто и Наталија.' },
+  info: { es: [['Ciudad', '[[venecia|Venecia]], bajo el agua'], ['Señores', '[[roberto]] y [[natalia-veneciana]]']], sr: [['Град', '[[venecia|Венеција]], под водом'], ['Господари', '[[roberto|Роберто]] и [[natalia-veneciana|Наталија]]']] },
+  es: `<p>Bajo los canales de Venecia existe un mundo secreto, contado en la novela <i>Venecianskaya maska</i>. En él está el <b>palacio</b> de [[roberto|Roberto]] y [[natalia-veneciana|Natalia]]: salas de luz cálida que se refleja en la piedra, el agua y los detalles dorados; bóvedas altas que se pierden en la penumbra; una cocina luminosa de piedra clara. Sobre la cúpula pasan las sombras de los peces, «y parecía que encima no hubiera agua sino un cielo líquido que respira a su propio ritmo».</p>
+<p>Allí, de noche, Natalia no logra dormir; allí, de mañana, ella y Natasha dejan de ser rivales. Bajo la plaza de San Marco, a su vez, hay una sala redonda con un círculo de mármol «parecido a un ojo abierto», donde nace la mitad «de abajo» de la [[escena-anticupula|anticúpula]].</p>`,
+  sr: `<p>Испод венецијанских канала постоји тајни свет, о коме говори роман <i>Венецианская маска</i>. У њему се налази <b>палата</b> [[roberto|Роберта]] и [[natalia-veneciana|Наталије]]: сале топле светлости која се одбија од камена, воде и златних детаља; високи сводови који се губе у полумраку; светла кухиња од светлог камена. Преко куполе клизе сенке риба, „и чинило се да изнад њих није вода, него течно небо које дише у свом ритму“.</p>
+<p>Ту ноћу Наталија не може да заспи; ту ујутру она и Наташа престају да буду супарнице. Испод трга Светог Марка, пак, налази се округла сала са мермерним кругом „налик отвореном оку“, у којој се рађа „доња“ половина [[escena-anticupula|антикуполе]].</p>`,
+  see: ['natalia-veneciana', 'roberto']
+},
+
+{
+  id: 'sevilla', cat: 'lugares', order: 34, nuevo: true,
+  t: { es: 'Sevilla', sr: 'Севиља' },
+  sum: { es: 'Sede secreta del Sur Místico, en un antiguo convento del siglo XVII.', sr: 'Тајно седиште Мистичног југа, у бившем манастиру из XVII века.' },
+  info: { es: [['País', 'España'], ['Sede de', '[[sur-mistico]]'], ['Edificio', 'Antiguo convento del siglo XVII']], sr: [['Држава', 'Шпанија'], ['Седиште', '[[sur-mistico]]'], ['Зграда', 'Бивши манастир из XVII века']] },
+  es: `<p>«Sevilla se hundía en la luz seca del invierno, que volvía la ciudad casi transparente». Tras las fachadas de piedra de un antiguo convento del siglo XVII, en una penumbra fresca y un silencio severo, está la sede del [[sur-mistico|Sur Místico]], «una estructura cuya existencia no conocían ni los gobiernos ni los servicios de inteligencia». Allí [[antonio-ferrer|Antonio Ferrer]] vigila el mapa holográfico de Europa.</p>`,
+  sr: `<p>„Севиља је тонула у суву зимску светлост, од које је град изгледао скоро провидан.“ Иза камених фасада бившег манастира из XVII века, у свежем полумраку и строгој тишини, налази се седиште [[sur-mistico|Мистичног југа]], „структуре за чије постојање нису знале ни владе ни обавештајне службе“. Ту [[antonio-ferrer|Антонио Ферер]] надгледа холографску мапу Европе.</p>`,
+  see: ['sur-mistico', 'antonio-ferrer']
+},
+
+{
+  id: 'teatro-griego', cat: 'lugares', order: 16, nuevo: true,
+  img: 'img/vendimia/07-1.jpg',
+  cap: { es: 'El Teatro Griego durante la fiesta central.', sr: 'Грчки театар током главне свечаности.' },
+  t: { es: 'Teatro Griego Frank Romero Day', sr: 'Грчки театар Френк Ромеро Деј' }, alt: ['Teatro Griego', 'Грчки театар'],
+  sum: { es: 'El anfiteatro tallado en un cerro, donde la Mulánima sale ante cuarenta mil personas.', sr: 'Амфитеатар усечен у брдо, где Муланима излази пред четрдесет хиљада људи.' },
+  info: { es: [['Ciudad', '[[mendoza|Mendoza]], Parque General San Martín'], ['Evento', 'Fiesta central de la [[vendimia]]'], ['Escena', '[[escena-mulanima]]']], sr: [['Град', '[[mendoza|Мендоза]], парк Генерала Сан Мартина'], ['Догађај', 'Главна свечаност [[vendimia|Вендимије]]'], ['Сцена', '[[escena-mulanima]]']] },
+  es: `<p>«El Teatro Griego Frank Romero Day no se parece a ningún teatro. No tiene techo. No tiene paredes. Es un cerro». Un cerro entero al pie de la precordillera, en el fondo del Parque General San Martín, tallado en forma de anfiteatro, donde se celebra el acto central de la [[vendimia]]. El sábado de [[libro-reina-vendimia]] hay cuarenta mil personas: familias con chicos dormidos, viejitos con almohadones para las gradas, grupos de amigos. Ese es el escenario donde emerge la [[mulanima]].</p>`,
+  sr: `<p>„Грчки театар Френк Ромеро Деј не личи ни на један театар. Нема кров. Нема зидове. То је брдо.“ Читаво брдо у подножју предкордиљера, на крају парка Генерала Сан Мартина, усечено у облику амфитеатра, где се одржава главна свечаност [[vendimia|Вендимије]]. У суботу из романа [[libro-reina-vendimia]] ту је четрдесет хиљада људи: породице са успаваном децом, старци са јастучићима за трибине, друштва пријатеља. На тој позорници израња [[mulanima|Муланима]].</p>`,
+  see: ['mulanima', 'vendimia']
+},
+
+{
+  id: 'mendoza-colonial', cat: 'lugares', order: 17, nuevo: true,
+  img: 'img/vendimia/06-1.jpg',
+  cap: { es: 'Luis bajo las ruinas de la Mendoza colonial.', sr: 'Луис испод рушевина колонијалне Мендозе.' },
+  t: { es: 'La Mendoza subterránea', sr: 'Подземна Мендоза' }, alt: ['Área Fundacional', 'ciudad colonial', 'Plaza Pedro del Castillo'],
+  sum: { es: '«Debajo de Mendoza hay otra Mendoza»: la ciudad colonial enterrada.', sr: '„Испод Мендозе постоји друга Мендоза“: закопани колонијални град.' },
+  info: { es: [['Ubicación', 'Área Fundacional, [[mendoza|Mendoza]]'], ['Contenido', 'Calles antiguas, sótanos, criptas de cuatro iglesias'], ['Despertó', '[[mulanima]]']], sr: [['Положај', 'Подручје оснивања, [[mendoza|Мендоза]]'], ['Садржај', 'Старе улице, подруми, крипте четири цркве'], ['Пробуђена', '[[mulanima|Муланима]]']] },
+  es: `<p>«Debajo de Mendoza hay otra Mendoza. Casi nadie lo sabe». Los turistas que pasean por la Plaza Pedro del Castillo, en el Área Fundacional, ven una fuente, un museo con techo de vidrio y, a dos cuadras, las ruinas de una iglesia vieja. No saben que la ciudad colonial no desapareció del todo: bajo metros de tierra y escombros siguen las calles antiguas, los sótanos de las casas, las criptas de las cuatro iglesias con tumbas que nadie trasladó, y pasadizos que, según las viejas de la Cuarta Sección, llegan lejos.</p>
+<p>[[antonio-ferrer|Ferrer]] y Luis buscan la entrada entre dos arcos rotos; en una de esas criptas, un hombre de voz grave despierta a la [[mulanima]].</p>`,
+  sr: `<p>„Испод Мендозе постоји друга Мендоза. Скоро нико то не зна.“ Туристи који шетају тргом Педро дел Кастиљо, у Подручју оснивања, виде фонтану, музеј са стакленим кровом и, два блока даље, рушевине старе цркве. Не знају да колонијални град није сасвим нестао: испод метара земље и рушевина и даље су старе улице, подруми кућа, крипте четири цркве са гробовима које нико није преселио и пролази који, према старицама из Четврте секције, воде далеко.</p>
+<p>[[antonio-ferrer|Ферер]] и Луис траже улаз између два срушена лука; у једној од тих крипти човек дубоког гласа буди [[mulanima|Муланиму]].</p>`,
+  see: ['mulanima', 'mendoza']
 }
 
 );

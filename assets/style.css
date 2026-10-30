@@ -152,6 +152,10 @@ figure.thumb figcaption { color: var(--muted); padding: 4px 2px 0; }
 .box > h2 { margin: 0 !important; padding: 4px 10px !important; font: 700 15px/1.4 inherit !important; border: 0 !important; }
 .box.feat > h2 { background: #cef2e0; }
 .box.know > h2 { background: #cedff2; }
+.box.news > h2 { background: #f2cede; }
+.newslist { columns: 2; column-gap: 24px; }
+.newslist li { break-inside: avoid; }
+@media (max-width: 600px) { .newslist { columns: 1; } }
 .box.villain > h2 { background: var(--villain); color: #fff; }
 .box.cats > h2 { background: #f2e0ce; }
 .box.books > h2 { background: #ddcef2; }

@@ -20,6 +20,7 @@
       welcome: 'Bienvenidos a La hora salvaje',
       welcomeSub: 'la enciclopedia del universo Дикий час · Дивљи час, que cualquiera puede leer.',
       articlesCount: 'artículos',
+      news: 'Novedades', newsSub: 'Actualización del 30 de octubre de 2026: Venecia en ruso, el tango de Buenos Aires y la reina de la Vendimia.',
       featured: 'Artículo destacado', didYouKnow: '¿Sabías que…?', villainWeek: 'Villano potencial de la semana',
       books: 'Las novelas', browse: 'Explorar por categoría', readMore: 'Seguir leyendo →',
       results: 'Resultados de búsqueda para', noResults: 'No hay resultados.',
@@ -56,6 +57,7 @@
       welcome: 'Добро дошли у Дивљи час',
       welcomeSub: 'енциклопедију универзума Дикий час · Дивљи час коју свако може да чита.',
       articlesCount: 'чланака',
+      news: 'Новости', newsSub: 'Ажурирање од 30. октобра 2026: Венеција на руском, танго из Буенос Ајреса и краљица Вендимије.',
       featured: 'Изабрани чланак', didYouKnow: 'Да ли сте знали…?', villainWeek: 'Потенцијални зликовац недеље',
       books: 'Романи', browse: 'Прегледај по категоријама', readMore: 'Читај даље →',
       results: 'Резултати претраге за', noResults: 'Нема резултата.',
@@ -203,7 +205,12 @@
     h += '<div class="home-cols"><div>';
     h += '<div class="box feat"><h2>' + t('featured') + '</h2><div class="in">' + (f.img ? '<img class="left" src="' + f.img + '" alt="">' : '') +
       '<p><b>' + links('[[' + f.id + ']]') + '</b> — ' + links(L(f.sum)) + '</p><p>' + links(firstPara(f)) + '</p><p><a href="#/a/' + f.id + '">' + t('readMore') + '</a></p></div></div>';
-    h += '<div class="box know"><h2>' + t('didYouKnow') + '</h2><div class="in"><ul>' + (W.facts[lang] || W.facts.es).map(function (x) { return '<li>' + links(x) + '</li>'; }).join('') + '</ul></div></div>';
+    var fresh = W.articles.filter(function (a) { return a.nuevo; });
+    if (fresh.length) {
+      h += '<div class="box news"><h2>' + t('news') + '</h2><div class="in"><p><small>' + t('newsSub') + '</small></p><ul class="newslist">' +
+        fresh.map(function (a) { return '<li>' + links('[[' + a.id + ']]') + ' <small>· ' + t('cats')[a.cat] + '</small></li>'; }).join('') + '</ul></div></div>';
+    }
+    h += '<div class="box know"><h2>' + t('didYouKnow') + '</h2><div class="in"><ul>' + pick(W.facts[lang] || W.facts.es, 7).map(function (x) { return '<li>' + links(x) + '</li>'; }).join('') + '</ul></div></div>';
     h += '</div><div>';
     var cur = V && V.actual;
     h += '<div class="box villain"><h2>' + t('villainWeek') + '</h2><div class="in">';
@@ -221,6 +228,12 @@
     h += '<div class="box books"><h2>' + t('books') + '</h2><div class="in"><div class="covers">' +
       books.map(function (b) { return '<a href="#/a/' + b.id + '"><img src="' + b.img + '" alt="">' + esc(L(b.t)) + '</a>'; }).join('') + '</div></div></div>';
     return h;
+  }
+
+  function pick(arr, n) {
+    var k = weekKey() % arr.length, out = [];
+    for (var i = 0; i < Math.min(n, arr.length); i++) out.push(arr[(k + i) % arr.length]);
+    return out;
   }
 
   function firstPara(a) {
