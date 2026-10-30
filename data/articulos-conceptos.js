@@ -3,8 +3,8 @@
 
 {
   id: 'divlji-cas', cat: 'conceptos', order: 1, featured: true,
-  img: 'img/portadas/dikij-chas.jpg',
-  cap: { es: 'La hora salvaje cae sobre Belgrado.', sr: 'Дивљи час пада на Београд.' },
+  img: 'img/belgrado/09-stranica.jpg',
+  cap: { es: 'Natasha lee el manuscrito en la Biblioteca Nacional.', sr: 'Наташа чита рукопис у Народној библиотеци.' },
   t: { es: 'La hora salvaje', sr: 'Дивљи час' }, alt: ['Дикий час', 'Divlji čas', 'hora salvaje', 'Дикий Час'],
   sum: { es: 'Fenómeno milenario en que una ciudad pierde el control de sí misma.', sr: 'Хиљадугодишња појава у којој град губи контролу над собом.' },
   info: {
@@ -30,6 +30,8 @@
 
 {
   id: 'piedras-magicas', cat: 'conceptos', order: 2,
+  img: 'img/belgrado/10-karta.jpg',
+  cap: { es: 'Natasha y Luis estudian el mapa de los puntos.', sr: 'Наташа и Луис проучавају мапу тачака.' },
   t: { es: 'Las piedras mágicas', sr: 'Магично камење' }, alt: ['piedras', 'камење'],
   sum: { es: 'Piedras oscuras repartidas por Belgrado que deciden quién controla la hora salvaje.', sr: 'Тамно камење расуто по Београду које одлучује ко контролише Дивљи час.' },
   info: { es: [['Aspecto', 'Pequeñas, oscuras, frías, «vivas»'], ['Puntos del mapa', '[[kalemegdan]], [[skadarlija]], [[hram-svetog-save]], [[zedanj]]'], ['Las colocó', '[[sofia]]']], sr: [['Изглед', 'Мало, тамно, хладно, „живо“'], ['Тачке мапе', '[[kalemegdan]], [[skadarlija]], [[hram-svetog-save]], [[zedanj]]'], ['Поставила их је', '[[sofia]]']] },
@@ -42,8 +44,8 @@
 
 {
   id: 'cubo-rubik', cat: 'conceptos', order: 3, featured: true,
-  img: 'img/portadas/drustvene-mreze.jpg',
-  cap: { es: 'Luis con el cubo brillante en la mano.', sr: 'Луис са блиставом коцком у руци.' },
+  img: 'img/belgrado/29-kubik.jpg',
+  cap: { es: 'El cubo se ilumina en las manos de Natasha.', sr: 'Коцка засија у Наташиним рукама.' },
   t: { es: 'El cubo de Rubik', sr: 'Рубикова коцка' }, alt: ['cubo', 'коцка', 'кубик Рубика', 'kubo'],
   sum: { es: 'El arma secreta de Luis: una combinación lo convierte en gigante.', sr: 'Луисово тајно оружје: једна комбинација га претвара у дива.' },
   info: { es: [['Portador', '[[luis]]'], ['Combinación del gigante', 'Cruz blanca arriba, rojo dos veces abajo, azul a la izquierda, esquina amarilla adelante'], ['Caras (novela de las redes)', 'Verdad, Silencio, Memoria…'], ['Codiciado por', '[[falk]]']], sr: [['Носилац', '[[luis]]'], ['Комбинација дива', 'Бели крст горе, црвено двапут доле, плаво лево, жути угао напред'], ['Стране (роман о мрежама)', 'Истина, Тишина, Памћење…'], ['Жуди за њом', '[[falk]]']] },
@@ -56,7 +58,11 @@
 <li>En [[libro-drustvene-mreze]] cada cara tiene un nombre: al girar la primera Luis dice «Verdad» y aparece el rostro real oculto tras un vídeo falso; luego Silencio, luego Memoria. Los seis colores se alinean «no como una explosión, sino como un amanecer».</li>
 <li>En Madrid Luis gira sus caras antes de comprobar sus efectos contra el toro de bronce.</li>
 <li>En [[libro-venecia]] es un cubo mágico contra la máquina, y en [[libro-praga]] es lo que en realidad persiguen los captores de Zmaj.</li>
-</ul>`,
+</ul>
+<h2>El cubo en manos equivocadas</h2>
+<p>En Venecia, poseído por la máquina, Luis sostiene el cubo como «prolongación de su poder» mientras ordena despejar San Marco ([[escena-luis-poseido]]). En la primera novela, además, el cubo convirtió en gigantas a [[marina|Marina]] y [[katarina|Katarina]] para que frenaran los tanques ([[escena-gigantas]]).</p>
+<h2>Origen real</h2>
+<p>En un capítulo de la novela de Venecia el autor explica que el cubo dejó de ser un juego para él durante la pandemia, cuando cada día exigía «algún orden interior»: «El cubo no solo se armaba: era como si respondiera». Al empezar a escribir <i>Divlji čas</i> en serbio le pareció natural que el arma de Luis no fuera la fuerza bruta, sino algo que exige comprensión, paciencia y control.</p>`,
   sr: `<p><b>Рубикова коцка</b> изгледа као играчка, али је највеће Луисово тајно оружје. Наташа ју је први пут видела у Мендози, у тишини његове радне собе, и тада јој се учинила обичним предметом.</p>
 <h2>Див</h2>
 <p>У бици за Београд, кад Змај губи од [[ala-artan|Але-Артана]], Луис ставља коцку Наташи у длан: „Кад будеш високо, направи комбинацију: бели крст — горе, црвено — двапут доле, плаво — лево, затим жути угао — напред. И упери коцку у мене.“ Луис постаје див и јуриша у борбу „као да излази на уличну тучу“ ([[escena-batalla-ala]]).</p>
@@ -66,20 +72,28 @@
 <li>У роману [[libro-drustvene-mreze]] свака страна има име: окрећући прву, Луис изговара „Истина“ и на зиду се појављује право лице скривено иза лажног снимка; затим Тишина, затим Памћење. Шест боја се слаже „не као експлозија, него као зора“.</li>
 <li>У Мадриду Луис окреће њене стране пре него што провери дејство против бронзаног бика.</li>
 <li>У роману [[libro-venecia]] то је чаробна коцка против машине, а у роману [[libro-praga]] управо за њом трагају Змајеви отмичари.</li>
-</ul>`,
+</ul>
+<h2>Коцка у погрешним рукама</h2>
+<p>У Венецији, запоседнут машином, Луис држи коцку као „продужетак своје моћи“ док наређује да се трг Светог Марка очисти ([[escena-luis-poseido]]). У првом роману коцка је, уз то, претворила [[marina|Марину]] и [[katarina|Катарину]] у џиновке да зауставе тенкове ([[escena-gigantas]]).</p>
+<h2>Стварно порекло</h2>
+<p>У једном поглављу романа о Венецији аутор објашњава да коцка за њега више није била игра током пандемије, када је сваки дан захтевао „неки унутрашњи ред“: „Коцка се није само слагала — као да је одговарала.“ Када је почео да пише „Дивљи час“ на српском, учинило му се природним да Луисово оружје не буде груба сила, него нешто што захтева разумевање, стрпљење и контролу.</p>`,
   see: ['luis', 'escena-batalla-ala']
 },
 
 {
   id: 'dibujos-de-luis', cat: 'conceptos', order: 4,
-  img: 'img/escenas/duhovi.jpg',
-  cap: { es: 'Lo que Luis dibuja puede despertar.', sr: 'Оно што Луис нацрта може да се пробуди.' },
+  img: 'img/belgrado/07-stena.jpg',
+  cap: { es: 'El dibujo de Luis aparece en un muro de Skadarlija.', sr: 'Луисов цртеж се појављује на зиду у Скадарлији.' },
   t: { es: 'Los dibujos de Luis', sr: 'Луисови цртежи' }, alt: ['dibujos', 'cuaderno', 'цртежи', 'свеска'],
   sum: { es: 'Los cuadernos de Luis: sus dibujos dejan huellas en la realidad.', sr: 'Луисове свеске: његови цртежи остављају трагове у стварности.' },
   info: { es: [['Portador', '[[luis]]'], ['Efecto', 'Las imágenes aparecen en muros y cielos; evocan criaturas']], sr: [['Носилац', '[[luis]]'], ['Дејство', 'Слике се појављују на зидовима и небу; призивају бића']] },
   es: `<p>Luis lleva siempre varios cuadernos gruesos, de hojas gastadas y esquinas dobladas. La primera noche le muestra a Natasha su dibujo favorito: montañas lejanas, un río tranquilo, un cielo ancho, «como si ese lugar existiera fuera del tiempo».</p>
+<figure class="thumb"><img src="img/belgrado/06-vsadnica.jpg" alt="" data-cap="La amazona, uno de los dibujos del cuaderno."><figcaption>La amazona, uno de los dibujos del cuaderno.</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/05-portret.jpg" alt="" data-cap="Retrato de Natasha a lápiz."><figcaption>Retrato de Natasha a lápiz.</figcaption></figure>
 <p>En [[skadarlija|Skadarlija]], ante una pared, algo empieza a «aparecer» y ninguno dice nada: «Y Luis comprendió de pronto: sus dibujos no solo mostraban imágenes. Dejaban huellas». En Mendoza dibuja las montañas sobre la terraza de la finca mientras Natasha compara «qué es más fuerte: la realidad o la mirada del artista»; en [[libro-malbek]] «en una hoja en blanco aparece ya la primera línea del cielo futuro». En [[libro-venecia]] su cuaderno sirve para evocar criaturas mitológicas.</p>`,
   sr: `<p>Луис увек носи неколико дебелих свезака, излизаних листова и подвијених углова. Прве ноћи показује Наташи свој омиљени цртеж: далеке планине, мирну реку, широко небо, „као да то место постоји изван времена“.</p>
+<figure class="thumb"><img src="img/belgrado/06-vsadnica.jpg" alt="" data-cap="Јахачица, један од цртежа из свеске."><figcaption>Јахачица, један од цртежа из свеске.</figcaption></figure>
+<figure class="thumb"><img src="img/belgrado/05-portret.jpg" alt="" data-cap="Наташин портрет оловком."><figcaption>Наташин портрет оловком.</figcaption></figure>
 <p>У [[skadarlija|Скадарлији]], пред једним зидом, нешто почиње да се „појављује“ и нико ништа не каже: „И Луис је одједном схватио: његови цртежи нису само приказивали слике. Остављали су трагове.“ У Мендози црта планине на тераси имања док Наташа упоређује „шта је јаче: стварност или поглед уметника“; у роману [[libro-malbek]] „на празном листу већ се појављује прва линија будућег неба“. У роману [[libro-venecia]] његова свеска служи за призивање митолошких бића.</p>`,
   see: ['luis', 'skadarlija']
 },
@@ -277,9 +291,71 @@
   t: { es: 'La Jugopedia', sr: 'Југопедија' }, alt: ['Югопедия', 'Jugopedia'],
   sum: { es: 'La enciclopedia que consultan los héroes; antepasada de esta wiki.', sr: 'Енциклопедија коју јунаци консултују; претеча овог викија.' },
   info: { es: [['Aparece en', '[[libro-karneval]]'], ['Usuarios', '[[luis]], [[natasa]]']], sr: [['Јавља се у', '[[libro-karneval]]'], ['Корисници', '[[luis]], [[natasa]]']] },
-  es: `<p>La <b>Jugopedia</b> es la enciclopedia en línea que consultan Luis y Natasha en Madrid: «Si la Jugopedia no se equivocó, el libro debe estar aquí», dice Luis en la [[biblioteca-nacional-espana|Biblioteca Nacional]]. Su nombre —una enciclopedia «yugoslava»— es un guiño balcánico a las grandes enciclopedias en línea. Esta wiki se considera, con cariño, su prima menor.</p>`,
-  sr: `<p><b>Југопедија</b> је онлајн енциклопедија коју Луис и Наташа консултују у Мадриду: „Ако Југопедија није погрешила, књига мора да буде овде“, каже Луис у [[biblioteca-nacional-espana|Народној библиотеци]]. Њено име — „југословенска“ енциклопедија — балкански је намиг великим онлајн енциклопедијама. Овај вики себе с љубављу сматра њеном млађом рођаком.</p>`,
+  es: `<p>La <b>Jugopedia</b> es la enciclopedia en línea que consultan Luis y Natasha en Madrid: «Si la Jugopedia no se equivocó, el libro debe estar aquí», dice Luis en la [[biblioteca-nacional-espana|Biblioteca Nacional]]. Su nombre —una enciclopedia «yugoslava»— es un guiño balcánico a las grandes enciclopedias en línea. Esta wiki se considera, con cariño, su prima menor.</p>
+<p>En la serie de Praga, Luis consulta su propia enciclopedia, la <i>Faderpedia</i> (en checo, <i>Faderpedie</i>), donde encuentra la leyenda de Černoboh.</p>`,
+  sr: `<p><b>Југопедија</b> је онлајн енциклопедија коју Луис и Наташа консултују у Мадриду: „Ако Југопедија није погрешила, књига мора да буде овде“, каже Луис у [[biblioteca-nacional-espana|Народној библиотеци]]. Њено име — „југословенска“ енциклопедија — балкански је намиг великим онлајн енциклопедијама. Овај вики себе с љубављу сматра њеном млађом рођаком.</p>
+<p>У прашкој серији Луис консултује сопствену енциклопедију, <i>Фадерпедију</i> (чешки <i>Faderpedie</i>), у којој проналази легенду о Чернобогу.</p>`,
   see: ['tauran']
+}
+,
+
+{
+  id: 'sur-mistico', cat: 'conceptos', order: 21, nuevo: true,
+  t: { es: 'El Sur Místico', sr: 'Мистични југ' }, alt: ['Sur Místico', 'Мистический юг', 'Мистични југ'],
+  sum: { es: 'La organización secreta de Sevilla para la que trabaja Luis, enemiga de la magia del noroeste.', sr: 'Тајна организација из Севиље за коју ради Луис, непријатељ магије северозапада.' },
+  info: {
+    es: [['Ruso', '«Мистический юг»'], ['Sede', '[[sevilla|Sevilla]]'], ['Coordinador europeo', '[[antonio-ferrer]]'], ['Agente', '[[luis]]'], ['Enemigo', 'La magia del noroeste ([[mcgregor]])']],
+    sr: [['Руски', '„Мистический юг“'], ['Седиште', '[[sevilla|Севиља]]'], ['Европски координатор', '[[antonio-ferrer]]'], ['Агент', '[[luis]]'], ['Непријатељ', 'Магија северозапада ([[mcgregor]])']]
+  },
+  es: `<p>El <b>Sur Místico</b> es una organización secreta con sede en un antiguo convento de [[sevilla|Sevilla]], «una estructura cuya existencia no conocían ni los gobiernos ni los servicios de inteligencia». Se opone a la <b>magia del noroeste</b>, que según la novela de Venecia «no era mística antigua ni brujería folclórica, sino un sistema frío de influencia construido sobre el cálculo, la tecnología y la psicología».</p>
+<figure class="thumb"><img src="img/personajes/luis-1.jpg" alt="" data-cap="Luis, agente del Sur Místico."><figcaption>Luis, agente del Sur Místico.</figcaption></figure>
+<p>[[luis|Luis]] es uno de sus agentes —«¿Es verdad que trabajás para el Sur Místico?», le preguntan en Venecia— y [[antonio-ferrer|Antonio Ferrer]] coordina el sector europeo. En [[libro-reina-vendimia]], Ferrer lo envía a Mendoza «porque el Sur Místico no tiene otro agente que haya sido gigante en Belgrado y haya sobrevivido para contarlo». Es la contrapartida meridional del [[ministerio-oriente|Ministerio de Oriente]] y rival de la [[alianza-del-norte]].</p>`,
+  sr: `<p><b>Мистични југ</b> је тајна организација са седиштем у бившем манастиру у [[sevilla|Севиљи]], „структура за чије постојање нису знале ни владе ни обавештајне службе“. Супротставља се <b>магији северозапада</b>, која према роману о Венецији „није била древна мистика ни фолклорно вештичарење, него хладан систем утицаја заснован на рачуну, технологији и психологији“.</p>
+<figure class="thumb"><img src="img/personajes/luis-1.jpg" alt="" data-cap="Луис, агент Мистичног југа."><figcaption>Луис, агент Мистичног југа.</figcaption></figure>
+<p>[[luis|Луис]] је један од његових агената — „Да ли је истина да радиш за Мистични југ?“, питају га у Венецији — а [[antonio-ferrer|Антонио Ферер]] координира европски сектор. У роману [[libro-reina-vendimia]] Ферер га шаље у Мендозу „јер Мистични југ нема другог агента који је био див у Београду и преживео да то исприча“. То је јужни пандан [[ministerio-oriente|Министарству Истока]] и супарник [[alianza-del-norte|Савеза Севера]].</p>`,
+  see: ['antonio-ferrer', 'ministerio-oriente', 'analogia-ministerios']
+},
+
+{
+  id: 'mascara-dorada', cat: 'conceptos', order: 22, nuevo: true,
+  img: 'img/personajes/roberto-venezia-2.jpg',
+  cap: { es: 'Roberto ante San Marco.', sr: 'Роберто пред Светим Марком.' },
+  t: { es: 'La máscara de Roberto', sr: 'Робертова маска' }, alt: ['máscara', 'маска'],
+  sum: { es: 'La máscara veneciana que guía a Roberto hacia el origen del mal.', sr: 'Венецијанска маска која води Роберта ка извору зла.' },
+  info: { es: [['Portador', '[[roberto]]'], ['Origen', 'Novela «Maschera di Venezia» / «Венецианская маска»'], ['Poder', 'Guía hacia la fuente del mal; da fuerza en combate']], sr: [['Носилац', '[[roberto]]'], ['Порекло', 'Роман „Maschera di Venezia“ / „Венецианская маска“'], ['Моћ', 'Води ка извору зла; даје снагу у борби']] },
+  es: `<p>La <b>máscara</b> es el artefacto de [[roberto|Roberto]], heredado de la novela <i>Maschera di Venezia</i>. En la novela de Venecia aparece primero como una máscara oscura, adornada con plata y talla fina, que «parecía mirar»; luego como una máscara pesada, dorada, cubierta de dibujos «casi vivos». «Me guía», dice Roberto mientras una góndola negra avanza sola por el canal: es «una máscara mágica que te lleva a la fuente del mal», y localiza los transmisores de la [[maquina-veneciana|máquina]] por la ciudad.</p>
+<p>Con ella puesta, Roberto pelea contra los monstruos-gondoleros y contra los hombres hipnotizados de San Marco. Luis se burla: hasta el arma de su hermano se parece a la suya, el [[cubo-rubik]].</p>`,
+  sr: `<p><b>Маска</b> је [[roberto|Робертов]] артефакт, наслеђен из романа <i>Maschera di Venezia</i>. У роману о Венецији најпре се појављује као тамна маска, украшена сребром и финим дуборезом, која „као да гледа“; затим као тешка, златна маска прекривена шарама „скоро живим“. „Она ме води“, каже Роберто док црна гондола сама плови каналом: то је „чаробна маска која те води ка извору зла“, и проналази предајнике [[maquina-veneciana|машине]] по граду.</p>
+<p>Са њом на лицу Роберто се бори против чудовишта-гондолијера и хипнотисаних мушкараца на тргу Светог Марка. Луис се руга: чак и оружје његовог брата личи на његово, [[cubo-rubik|Рубикову коцку]].</p>`,
+  see: ['roberto', 'cubo-rubik']
+},
+
+{
+  id: 'hunuc-huar', cat: 'conceptos', order: 23, nuevo: true,
+  img: 'img/vendimia/08-1.jpg',
+  cap: { es: 'Yanina frente a la bestia en el escenario.', sr: 'Јанина пред звери на позорници.' },
+  t: { es: 'Hunuc Huar', sr: 'Хунук Уар' }, alt: ['Hunuc', 'huarpes', 'Уарпе'],
+  sum: { es: 'El dios huarpe que duerme en los cerros y cuida el agua de Cuyo.', sr: 'Бог народа Уарпе који спава у брдима и чува воду Кујо.' },
+  info: { es: [['Pueblo', 'Huarpes (Cuyo)'], ['Morada', 'Los cerros de los [[andes|Andes]]'], ['Novela', '[[libro-reina-vendimia]]']], sr: [['Народ', 'Уарпе (Кујо)'], ['Боравиште', 'Брда [[andes|Анда]]'], ['Роман', '[[libro-reina-vendimia]]']] },
+  es: `<p>Mientras se prepara para la [[vendimia]], Jana aprende quiénes eran los <b>huarpes</b>, el pueblo que vivía en esas tierras antes de que llegaran los españoles y que construyó las primeras acequias. «Los huarpes tenían un dios», le cuenta Ayelén, la tímida reina de Lavalle: <b>Hunuc Huar</b>. Un hombre mayor completa la leyenda: «Los huarpes sabían que Hunuc Huar duerme en los cerros y cuida el agua de Cuyo. Hunuc, el hijo de la montaña y del sol, buscaba compañía». Es «un ser bueno».</p>
+<p>En el acto central, bailarines vestidos de huarpes construyen acequias imaginarias con sus cuerpos. La novela, todavía en curso, sugiere que la [[mulanima]] y Hunuc Huar están relacionados con lo que «los huarpes conocían».</p>`,
+  sr: `<p>Док се спрема за [[vendimia|Вендимију]], Јана учи ко су били <b>Уарпе</b>, народ који је живео на тим просторима пре доласка Шпанаца и изградио прве канале за наводњавање. „Уарпе су имали бога“, прича јој Ајелен, стидљива краљица Лаваљеа: <b>Хунук Уар</b>. Један старији човек допуњује легенду: „Уарпе су знали да Хунук Уар спава у брдима и чува воду Кујо. Хунук, син планине и сунца, тражио је друштво.“ То је „добро биће“.</p>
+<p>На главној свечаности плесачи обучени као Уарпе својим телима граде замишљене канале. Роман, који је још у писању, наговештава да су [[mulanima|Муланима]] и Хунук Уар повезани са оним што су „Уарпе знали“.</p>`,
+  see: ['mulanima', 'espiritus-de-las-montanas']
+},
+
+{
+  id: 'tango-mas-triste', cat: 'conceptos', order: 24, nuevo: true,
+  img: 'img/portadas/tango.jpg',
+  cap: { es: 'El bandoneón en la portada de la novela.', sr: 'Бандонеон на корици романа.' },
+  t: { es: 'El tango más triste', sr: 'Најтужнији танго' }, alt: ['tango', 'танго', 'bandoneón', 'milonga'],
+  sum: { es: 'El baile que Luis, en once años, nunca se animó a bailar con Natasha.', sr: 'Плес који Луис за једанаест година никада није смео да заигра са Наташом.' },
+  info: { es: [['Novela', '[[libro-tango]]'], ['Dónde suena', 'Una milonga en un sótano de Dorćol (Belgrado); Buenos Aires']], sr: [['Роман', '[[libro-tango]]'], ['Где се чује', 'Милонга у подруму на Дорћолу (Београд); Буенос Ајрес']] },
+  es: `<p>El tango atraviesa [[libro-tango]] desde la primera página. En Belgrado, los jueves hay milonga en un sótano de Dorćol, y un bandoneón sube «muy bajito» hasta el balcón de Luis y Natasha. Ella mueve los pies descalzos siguiendo el compás. «La serbia que baila tango mejor que el argentino», dice Luis. «El argentino que no baila tango», lo corrige ella. «Y los que tienen miedo de abrazar en serio no lo bailan. Algún día te voy a enseñar».</p>
+<p>Ese «algún día» lleva once años. Cuando cuelgan la llamada de Sergio, el bandoneón empieza «un tango lento, de esos que parecen una pregunta». Según la sinopsis, al final de la aventura los espera «el tango más triste».</p>`,
+  sr: `<p>Танго прожима роман [[libro-tango]] од прве странице. У Београду четвртком има милонге у подруму на Дорћолу, а бандонеон допире „сасвим тихо“ до балкона Луиса и Наташе. Она голим ногама прати ритам. „Српкиња која игра танго боље од Аргентинца“, каже Луис. „Аргентинац који не игра танго“, исправља га она. „А они који се боје да загрле озбиљно — не играју га. Једног дана ћу те научити.“</p>
+<p>То „једног дана“ траје већ једанаест година. Кад заврше разговор са Серхиом, бандонеон почиње „спор танго, од оних који личе на питање“. Према синопсису, на крају авантуре их чека „најтужнији танго“.</p>`,
+  see: ['libro-tango', 'llanto-de-los-hombres']
 }
 
 );

@@ -3,8 +3,8 @@
 
 {
   id: 'escena-patinete', cat: 'escenas', order: 1,
-  img: 'img/lugares/trotinet.jpg',
-  cap: { es: 'El patinete que lo empezó todo.', sr: 'Тротинет са којим је све почело.' },
+  img: 'img/belgrado/01-samokat.jpg',
+  cap: { es: 'Natasha atropella a Luis en Knez Mihailova (cap. 1).', sr: 'Наташа удара Луиса у Кнез Михаиловој (1. поглавље).' },
   t: { es: 'El choque del patinete', sr: 'Судар са тротинетом' },
   sum: { es: 'Knez Mihailova, una mañana cálida: así se conocen Luis y Natasha.', sr: 'Кнез Михаилова, једно топло јутро: тако се упознају Луис и Наташа.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], cap. 1'], ['Lugar', '[[knez-mihailova]]'], ['Personajes', '[[luis]], [[natasa]]']], sr: [['Роман', '[[libro-dikij-chas]], 1. поглавље'], ['Место', '[[knez-mihailova|Кнез Михаилова]]'], ['Ликови', '[[luis]], [[natasa]]']] },
@@ -19,8 +19,8 @@
 
 {
   id: 'escena-mordisco-kalemegdan', cat: 'escenas', order: 2,
-  img: 'img/lugares/kalemegdan.jpg',
-  cap: { es: 'Kalemegdan al atardecer.', sr: 'Калемегдан у сумрак.' },
+  img: 'img/belgrado/13-ne-smej.jpg',
+  cap: { es: 'El primer encuentro con las agentes en Kalemegdan.', sr: 'Први сусрет са агенткињама на Калемегдану.' },
   t: { es: 'El primer mordisco en Kalemegdan', sr: 'Први ујед на Калемегдану' },
   sum: { es: 'Dos agentes, una rubia y una pelirroja, descubren quién es Natasha.', sr: 'Две агенткиње, плавуша и риђокоса, откривају ко је Наташа.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], cap. 13'], ['Lugar', '[[kalemegdan]]'], ['Personajes', '[[natasa]], [[luis]], [[marina]], [[katarina]]']], sr: [['Роман', '[[libro-dikij-chas]], 13. поглавље'], ['Место', '[[kalemegdan|Калемегдан]]'], ['Ликови', '[[natasa]], [[luis]], [[marina]], [[katarina]]']] },
@@ -33,6 +33,8 @@
 
 {
   id: 'escena-secuestro-zedanj', cat: 'escenas', order: 3,
+  img: 'img/belgrado/26-plenniki.jpg',
+  cap: { es: 'Luis y Natasha, prisioneros del Ministerio.', sr: 'Луис и Наташа, заробљеници Министарства.' },
   t: { es: 'El secuestro de Zedanj', sr: 'Отмица на Зедању' },
   sum: { es: 'La emboscada en la meseta y el interrogatorio en el búnker.', sr: 'Заседа на висоравни и саслушање у бункеру.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], caps. 25–26'], ['Lugar', '[[zedanj]]'], ['Personajes', '[[natasa]], [[marina]], [[katarina]], [[irina]]']], sr: [['Роман', '[[libro-dikij-chas]], 25–26. поглавље'], ['Место', '[[zedanj|Зедањ]]'], ['Ликови', '[[natasa]], [[marina]], [[katarina]], [[irina]]']] },
@@ -45,6 +47,8 @@
 
 {
   id: 'escena-leccion-geografia', cat: 'escenas', order: 4,
+  img: 'img/belgrado/27-u-bashni.jpg',
+  cap: { es: 'La torre donde Luis da su «clase».', sr: 'Кула у којој Луис држи свој „час“.' },
   t: { es: 'La lección de geografía', sr: 'Час географије' },
   sum: { es: 'Encañonado en la torre, Luis se ríe y da una clase a los agentes occidentales.', sr: 'Под цевима у кули, Луис се смеје и држи час западним агентима.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], cap. 28'], ['Lugar', '[[kula-nebojsa]]'], ['Personajes', '[[luis]], [[john]], [[sofia]]']], sr: [['Роман', '[[libro-dikij-chas]], 28. поглавље'], ['Место', '[[kula-nebojsa|Кула Небојша]]'], ['Ликови', '[[luis]], [[john]], [[sofia]]']] },
@@ -59,8 +63,8 @@
 
 {
   id: 'escena-batalla-ala', cat: 'escenas', order: 5, featured: true,
-  img: 'img/lugares/zmaj.jpg',
-  cap: { es: 'Zmaj en el cielo de Belgrado.', sr: 'Змај на небу изнад Београда.' },
+  img: 'img/belgrado/32-bitva.jpg',
+  cap: { es: 'Luis contra el demonio de las tormentas (cap. 32).', sr: 'Луис против демона олуја (32. поглавље).' },
   t: { es: 'La batalla contra Ala-Artan', sr: 'Битка против Але-Артана' },
   sum: { es: 'El Danubio estalla, un demonio de tormenta pisa Belgrado y Luis se vuelve gigante.', sr: 'Дунав експлодира, демон олује гази Београд, а Луис постаје див.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], caps. 30–32'], ['Lugar', 'Danubio, [[kula-nebojsa]], [[kalemegdan]]'], ['Bandos', '[[luis]], [[natasa]], [[zmaj]], [[marina]], [[katarina]] contra [[ala-artan]] y [[sofia]]'], ['Resultado', 'Belgrado se salva']], sr: [['Роман', '[[libro-dikij-chas]], 30–32. поглавље'], ['Место', 'Дунав, [[kula-nebojsa]], [[kalemegdan]]'], ['Стране', '[[luis]], [[natasa]], [[zmaj]], [[marina]], [[katarina]] против [[ala-artan|Але-Артана]] и [[sofia|Софије]]'], ['Исход', 'Београд је спасен']] },
@@ -81,6 +85,8 @@
 
 {
   id: 'escena-juicio-sofia', cat: 'escenas', order: 6,
+  img: 'img/belgrado/33-plennye.jpg',
+  cap: { es: 'Natasha frente a los conspiradores vencidos.', sr: 'Наташа пред пораженим заверницима.' },
   t: { es: 'El juicio de Sofía', sr: 'Суђење Софији' },
   sum: { es: '«Me traicionaste»: Natasha enfrenta a su antigua amiga entre las ruinas.', sr: '„Издала си ме“: Наташа се суочава са некадашњом пријатељицом међу рушевинама.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], cap. 34'], ['Personajes', '[[natasa]], [[sofia]]'], ['Sentencia', 'Exilio']], sr: [['Роман', '[[libro-dikij-chas]], 34. поглавље'], ['Ликови', '[[natasa]], [[sofia]]'], ['Пресуда', 'Прогонство']] },
@@ -99,9 +105,11 @@
   sum: { es: 'Meses después de la hora salvaje, Luis y Natasha se casan al atardecer.', sr: 'Месецима после Дивљег часа, Луис и Наташа се венчавају у сумрак.' },
   info: { es: [['Novela', '[[libro-dikij-chas]], cap. 35'], ['Lugar', '[[kalemegdan]]'], ['Personajes', '[[luis]], [[natasa]]']], sr: [['Роман', '[[libro-dikij-chas]], 35. поглавље'], ['Место', '[[kalemegdan|Калемегдан]]'], ['Ликови', '[[luis]], [[natasa]]']] },
   es: `<p>Han pasado varios meses desde la noche en que Belgrado estuvo al borde de la locura. La ciudad se ha curado «como un ser vivo que sobrevivió a una tormenta»: las piedras de las torres están restauradas, las calles vuelven a llenarse de voces y música, y la gente ya no habla en voz alta de la hora salvaje.</p>
+<figure class="thumb"><img src="img/belgrado/35-kalemegdan.jpg" alt="" data-cap="Kalemegdan al atardecer, con Zmaj en el cielo."><figcaption>Kalemegdan al atardecer, con Zmaj en el cielo.</figcaption></figure>
 <p>Ese día Kalemegdan «se ahogaba en luz». El sol se inclinaba, tiñendo el Danubio y el Sava de oro y cobre; el viento traía olor a agua y hierba; «parecía que la propia fortaleza contenía el aliento». Natasha lleva el pelo suelto y solo una [[diadema]] fina. No es «una bruja adornada de poder ni una heroína legendaria», sino ella misma.</p>
 <p>Aquella noche, cuando la ciudad por fin durmió tranquila, la luna tembló de verdad. Un poco. «Como se había prometido». 🌙</p>`,
   sr: `<p>Прошло је неколико месеци од ноћи када је Београд балансирао на ивици лудила. Град се лечио „као живо биће које је преживело олују“: камење кула је обновљено, улице су поново пуне гласова и музике, а људи више наглас не говоре о Дивљем часу.</p>
+<figure class="thumb"><img src="img/belgrado/35-kalemegdan.jpg" alt="" data-cap="Калемегдан у сумрак, са Змајем на небу."><figcaption>Калемегдан у сумрак, са Змајем на небу.</figcaption></figure>
 <p>Тог дана Калемегдан је „тонуо у светлост“. Сунце се спуштало, бојећи Дунав и Саву златом и бакром; ветар је доносио мирис воде и траве; „чинило се да је и сама тврђава задржала дах“. Наташа носи пуштену косу и само танку [[diadema|дијадему]]. Није „вештица окићена моћи нити легендарна јунакиња“, него она сама.</p>
 <p>Те ноћи, када је град најзад мирно заспао, месец је заиста задрхтао. Мало. „Као што је било обећано.“ 🌙</p>`,
   see: ['kalemegdan', 'diadema']
@@ -225,6 +233,107 @@
   sr: `<p>Све је почело свађом у кухињи: Наташа бесна због бизниса светског првенства, и Луис, који предлаже лудост — пријавити репрезентацију која не представља ниједну државу, него <b>Човечанство</b>. Луис је капитен.</p>
 <p>Против [[seleccion-del-hambre|Репрезентације глади]] меч је рат гурања: Барон пшенице гура раменом, Логистички удав изазива фаулове, Шећерни робовласник затвара пролазе. Алесио бежи Барону и додаје Франку, који улеће у казнени простор између Барона пшенице и Власника патента на семе. Поред терена [[bonbibi|Бонбиби]] подиже руку и дува влажни ветар Сундарбана; њен тигар Багха Даршан седи загледан у противника; горе посматра [[zmaj|Змај]]. Улог није пехар ни слава, већ „право да се промени будућност света“.</p>`,
   see: ['seleccion-del-hambre', 'analogia-seleccion']
+}
+,
+
+{
+  id: 'escena-gigantas', cat: 'escenas', order: 4, nuevo: true,
+  img: 'img/belgrado/29-gigantshi.jpg',
+  cap: { es: 'Marina y Katarina, gigantas, contra los tanques (cap. 29).', sr: 'Марина и Катарина, џиновке, против тенкова (29. поглавље).' },
+  t: { es: 'Las gigantas contra los tanques', sr: 'Џиновке против тенкова' },
+  sum: { es: 'Un rayo del cubo convierte a las dos agentes de Oriente en gigantas.', sr: 'Сноп из коцке претвара две агенткиње Истока у џиновке.' },
+  info: { es: [['Novela', '[[libro-dikij-chas]], cap. 29'], ['Personajes', '[[luis]], [[marina]], [[katarina]]']], sr: [['Роман', '[[libro-dikij-chas]], 29. поглавље'], ['Ликови', '[[luis]], [[marina]], [[katarina]]']] },
+  es: `<p>Mientras la [[divlji-cas|hora salvaje]] se acerca y aparecen helicópteros y tanques, Marina y Katarina ven desde abajo que Luis empieza a girar las caras del cubo, «rápido, preciso, sin error». El cubo se enciende, un rayo de luz las golpea y «el mundo estalló». Cuando todo se calma, ya no son las mismas: son gigantas.</p>
+<blockquote>—¿Qué nos hiciste? —gritó Katarina.<br>—Magia —respondió Luis desde arriba—. Y ahora solo ustedes pueden detener esto.</blockquote>
+<p>Marina mira los tanques. Poco después, junto al río, una Katarina gigante se da vuelta: «¡Ser giganta me empieza a gustar!». Y al final: «¡Yo quería ser giganta un rato más!». Es el origen de la queja de los militares occidentales: «Un artista. Una bruja. Y dos gigantas».</p>`,
+  sr: `<p>Док се [[divlji-cas|Дивљи час]] приближава и појављују се хеликоптери и тенкови, Марина и Катарина одоздо виде како Луис почиње да окреће стране коцке, „брзо, прецизно, без грешке“. Коцка засија, сноп светлости их погађа и „свет је експлодирао“. Кад се све смири, више нису исте: постале су џиновке.</p>
+<blockquote>— Шта си нам урадио?! — викнула је Катарина.<br>— Магија — одговорио је Луис одозго. — И сада само ви можете ово да зауставите.</blockquote>
+<p>Марина гледа тенкове. Убрзо, крај реке, џиновска Катарина се окреће: „Почиње да ми се свиђа да будем џиновка!“ А на крају: „А ја сам хтела још мало да будем џиновка!“ Одатле потиче жалба западних војника: „Уметник. Вештица. И две џиновке.“</p>`,
+  see: ['marina', 'katarina', 'cubo-rubik']
+},
+
+{
+  id: 'escena-luis-poseido', cat: 'escenas', order: 22, nuevo: true, featured: true,
+  img: 'img/portadas/venecija-ru.jpg',
+  cap: { es: 'Portada de «Венецианское колдовство».', sr: 'Корица „Венецијанског вештичарења“.' },
+  t: { es: 'Luis, poseído, en San Marco', sr: 'Запоседнути Луис на тргу Светог Марка' },
+  sum: { es: 'El héroe de la saga cae bajo la máquina y se convierte en el enemigo.', sr: 'Јунак саге пада под машину и постаје непријатељ.' },
+  info: { es: [['Novela', '[[libro-venecia]], caps. 24–31'], ['Lugar', 'Plaza de San Marco, [[venecia|Venecia]]'], ['Personajes', '[[luis]], [[roberto]], [[natasa]], [[mcgregor]]']], sr: [['Роман', '[[libro-venecia]], 24–31. поглавље'], ['Место', 'Трг Светог Марка, [[venecia|Венеција]]'], ['Ликови', '[[luis]], [[roberto]], [[natasa]], [[mcgregor]]']] },
+  es: `<p>Es el giro más oscuro de la saga. En el Arsenal, Luis y Roberto salen por una alcantarilla bajo la plaza y llegan ante la [[maquina-veneciana|máquina]]. Pero Luis resulta vulnerable a ella. Desde el lomo de [[zmaj]], Natasha ve la espada en la mano de Luis, su postura, sus ojos… Luis ataca a su hermano y a ella, rápido, «casi sin emoción»; Roberto, herido y sin máscara, se pone delante de Natasha para protegerla. Luis cae entre las piedras mojadas y [[mcgregor|McGregor]] murmura: «Y ahora llegará nuestro tiempo».</p>
+<p>Días después Luis aparece en el centro de San Marco «con un fuego frío ajeno en los ojos» y ordena a los hombres subir a las góndolas: «Hasta llegar a las orillas serbias por el Danubio, no se detengan. No discutan, no piensen». Gigante, con el [[cubo-rubik]] en una mano como «prolongación de su poder», exige: «Saquen a esas mujeres de la plaza. San Marco nos pertenece». La respuesta es la [[escena-ejercito-mujeres]].</p>`,
+  sr: `<p>То је најмрачнији преокрет саге. У Арсеналу Луис и Роберто излазе кроз шахт испод трга и стижу пред [[maquina-veneciana|машину]]. Али Луис се показује рањивим за њу. Са леђа [[zmaj|Змаја]] Наташа види мач у Луисовој руци, његово држање, његове очи… Луис напада брата и њу, брзо, „скоро без емоција“; Роберто, рањен и без маске, стаје испред Наташе да је заштити. Луис пада међу мокро камење, а [[mcgregor|Макгрегор]] промрмља: „А сада ће доћи наше време.“</p>
+<p>Данима касније Луис се појављује усред трга Светог Марка „са туђом хладном ватром у очима“ и наређује мушкарцима да се укрцају у гондоле: „Док не стигнете до српских обала Дунавом, не заустављајте се. Не расправљајте, не мислите.“ Див, са [[cubo-rubik|Рубиковом коцком]] у руци као „продужетком своје моћи“, захтева: „Уклоните те жене са трга. Свети Марко припада нама.“ Одговор је [[escena-ejercito-mujeres]].</p>`,
+  see: ['escena-ejercito-mujeres', 'maquina-veneciana', 'luis']
+},
+
+{
+  id: 'escena-ejercito-mujeres', cat: 'escenas', order: 23, nuevo: true,
+  img: 'img/personajes/natalia-venice-4.jpg',
+  cap: { es: 'Venecia de noche.', sr: 'Венеција ноћу.' },
+  t: { es: 'El ejército de mujeres de San Marco', sr: 'Војска жена на тргу Светог Марка' },
+  sum: { es: '«Yo. Y este ejército»: Natasha y las venecianas frente a los hombres hipnotizados.', sr: '„Ја. И ова војска“: Наташа и Венецијанке пред хипнотисаним мушкарцима.' },
+  info: { es: [['Novela', '[[libro-venecia]], caps. 28–31'], ['Lugar', 'Plaza de San Marco'], ['Personajes', '[[natasa]], [[natalia-veneciana]], [[luis]]']], sr: [['Роман', '[[libro-venecia]], 28–31. поглавље'], ['Место', 'Трг Светог Марка'], ['Ликови', '[[natasa]], [[natalia-veneciana]], [[luis]]']] },
+  es: `<p>En un refugio escondido en una vieja bodega bajo Venecia, unas mujeres discuten a la luz de las velas sin encontrar salida: «Todo esto es culpa de los hombres. Siempre fueron débiles, solo que antes no se notaba tanto». Natasha las escucha y les cambia la mirada: «una mezcla de esperanza y duda que apenas empieza a convertirse en decisión». Mientras tanto el caos sale de la laguna: en París estallan peleas en las bocas del metro, en Roma los hombres gritan en las plazas, en Viena las mujeres cierran las ventanas.</p>
+<p>Cuando Luis, poseído, pregunta quién se atreve a desafiarlo, Natasha responde: «Yo. Y este ejército». Las mujeres llenan San Marco: son varias veces más que los hombres, «tranquilas, sin gritos ni amenazas, y precisamente esa calma asustaba a los hombres más que cualquier arma». «Era como si la propia Venecia recordara por fin a quién pertenece».</p>`,
+  sr: `<p>У склоништу скривеном у старом винском подруму испод Венеције неке жене расправљају уз свеће не налазећи излаз: „Све је ово због мушкараца. Увек су били слаби, само се раније то није толико видело.“ Наташа их слуша и мења им поглед: „мешавина наде и сумње која тек почиње да се претвара у одлуку“. У међувремену хаос излази из лагуне: у Паризу избијају свађе на улазима у метро, у Риму мушкарци вичу на трговима, у Бечу жене затварају прозоре.</p>
+<p>Када запоседнути Луис пита ко се усуђује да га изазове, Наташа одговара: „Ја. И ова војска.“ Жене испуњавају трг Светог Марка: има их неколико пута више од мушкараца, „мирних, без викања и претњи, и баш та мирноћа плашила је мушкарце више од сваког оружја“. „Као да се сама Венеција најзад сетила коме припада.“</p>`,
+  see: ['escena-luis-poseido', 'natasa', 'analogia-maquina']
+},
+
+{
+  id: 'escena-anticupula', cat: 'escenas', order: 24, nuevo: true,
+  img: 'img/personajes/natalia-venice-1.jpg',
+  cap: { es: 'Natalia, que encontró la forma de romper la cúpula.', sr: 'Наталија, која је нашла начин да сломи куполу.' },
+  t: { es: 'La anticúpula', sr: 'Антикупола' },
+  sum: { es: 'Dos parejas, dos lugares a la vez: así se rompe la cúpula de McGregor.', sr: 'Два пара, два места одједном: тако се ломи Макгрегорова купола.' },
+  info: { es: [['Novela', '[[libro-venecia]], caps. 32–33'], ['Lugares', '[[arsenal]] y una sala bajo San Marco'], ['Personajes', '[[roberto]], [[natalia-veneciana]], [[luis]], [[natasa]]']], sr: [['Роман', '[[libro-venecia]], 32–33. поглавље'], ['Места', '[[arsenal|Арсенал]] и сала испод Светог Марка'], ['Ликови', '[[roberto]], [[natalia-veneciana]], [[luis]], [[natasa]]']] },
+  es: `<p>La máquina yace destrozada a sus pies, pero la cúpula sigue sobre Venecia «y eso era lo más terrible». Roberto, recuperado, recuerda cada palabra cruel que le dijo a Natalia. Ella no lo acusa: «en su silencio había más verdad que en un largo discurso». Natalia entiende que la anticúpula debe nacer de dos lugares a la vez: de la profundidad de Venecia y del corazón del Arsenal. «No se podía estar todo el tiempo salvándose unos a otros, quitándole al otro su parte del camino».</p>
+<p>Roberto y Natalia bajan juntos, sin tomarse de la mano. Bajo San Marco encuentran una sala redonda con un círculo de mármol, «parecido a un ojo abierto o a un agua quieta». No hay máquinas, ni palancas, ni cristales. Roberto se acerca al borde del círculo y le dice que la ama «no como imagen, no como prueba de su hombría», y que quiere aprender a amarla libre. En el Arsenal, Luis y Natasha sienten la respuesta: el aire alrededor de la máquina se vuelve más suave. La cúpula tiembla en amarillo y rojo y se deshace en luz sobre los tejados, los puentes y las caras de la gente.</p>`,
+  sr: `<p>Машина лежи разбијена код њихових ногу, али купола и даље стоји над Венецијом, „и то је било најстрашније“. Роберто, који се освестио, памти сваку окрутну реч коју је рекао Наталији. Она га не оптужује: „у њеном ћутању било је више истине него у дугом говору“. Наталија схвата да антикупола мора да се роди на два места одједном: у дубини Венеције и у срцу Арсенала. „Није могло стално да се спасава једно друго, одузимајући другоме његов део пута.“</p>
+<p>Роберто и Наталија силазе заједно, не држећи се за руке. Испод Светог Марка проналазе округлу салу са мермерним кругом, „налик отвореном оку или мирној води“. Нема машина, ни полуга, ни кристала. Роберто прилази ивици круга и каже јој да је воли „не као слику, не као доказ своје мушкости“ и да жели да научи да је воли слободну. У Арсеналу Луис и Наташа осећају одговор: ваздух око машине постаје мекши. Купола задрхти жуто и црвено и распрсне се у светлост над крововима, мостовима и лицима људи.</p>`,
+  see: ['mcgregor', 'roberto', 'natalia-veneciana']
+},
+
+{
+  id: 'escena-danubio-final', cat: 'escenas', order: 25, nuevo: true,
+  img: 'img/belgrado/02-zakat.jpg',
+  cap: { es: 'Belgrado y sus ríos al atardecer.', sr: 'Београд и његове реке у сумрак.' },
+  t: { es: 'De vuelta al Danubio', sr: 'Повратак на Дунав' },
+  sum: { es: 'El cierre de la saga en ruso: una noche tranquila a orillas del Danubio.', sr: 'Крај саге на руском: мирна ноћ на обали Дунава.' },
+  info: { es: [['Novela', '[[libro-venecia]], cap. 35'], ['Lugar', '[[belgrado|Belgrado]]'], ['Personajes', '[[luis]], [[natasa]], [[zmaj]]']], sr: [['Роман', '[[libro-venecia]], 35. поглавље'], ['Место', '[[belgrado|Београд]]'], ['Ликови', '[[luis]], [[natasa]], [[zmaj]]']] },
+  es: `<p>Tras Venecia, la saga vuelve a casa. «El Danubio de noche era oscuro, ancho y tranquilo. No brillaba tan teatralmente como los canales venecianos, no reflejaba palacios ni máscaras, no fingía ser espejo de la belleza ajena. Simplemente corría: profundo, sin prisa». Natasha mira el agua con una cinta dorada en el pelo. Luis se acerca por detrás y se queda a su lado sin romper el silencio: ya ha aprendido que a veces ella no necesita una explicación ni una pregunta, sino presencia.</p>
+<p>Se besan «sin prisa, sin miedo, sin necesidad de demostrar nada». Sobre ellos pasa [[zmaj]] y por un instante sus alas tapan la luna. Los dos entienden que el amor «no promete que nunca más habrá oscuridad. Promete otra cosa: que en esa oscuridad alguien…». Después solo queda la carta del autor despidiéndose de la saga.</p>`,
+  sr: `<p>После Венеције сага се враћа кући. „Дунав је ноћу био таман, широк и миран. Није блистао тако театрално као венецијански канали, није одражавао палате и маске, није се правио огледалом туђе лепоте. Једноставно је текао — дубоко, без журбе.“ Наташа гледа воду са златном траком у коси. Луис прилази отпозади и стаје поред ње не прекидајући тишину: већ је научио да њој понекад није потребно објашњење ни питање, него присуство.</p>
+<p>Љубе се „без журбе, без страха, без потребе да ишта доказују“. Изнад њих пролази [[zmaj|Змај]] и на тренутак крилима заклања месец. Обоје разумеју да љубав „не обећава да више никада неће бити таме. Обећава нешто друго: да ће у тој тами неко…“ Затим остаје само ауторово писмо којим се опрашта од саге.</p>`,
+  see: ['libro-venecia', 'robert-fader']
+},
+
+{
+  id: 'escena-llamada-sergio', cat: 'escenas', order: 26, nuevo: true,
+  img: 'img/portadas/tango.jpg',
+  cap: { es: '«El tango más triste».', sr: '„Најтужнији танго“.' },
+  t: { es: 'La llamada de Sergio', sr: 'Серхиов позив' },
+  sum: { es: 'Una noche de septiembre en el balcón: «Perdió River».', sr: 'Једна септембарска ноћ на балкону: „Изгубио је Ривер.“' },
+  info: { es: [['Novela', '[[libro-tango]], cap. 1'], ['Lugar', 'Balcón sobre el Danubio, [[belgrado|Belgrado]]'], ['Personajes', '[[luis]], [[natasa]], [[sergio]]']], sr: [['Роман', '[[libro-tango]], 1. поглавље'], ['Место', 'Балкон над Дунавом, [[belgrado|Београд]]'], ['Ликови', '[[luis]], [[natasa]], [[sergio]]']] },
+  es: `<p>Es una de esas noches de septiembre en que Belgrado huele a tilo y a humo de parrilla. Luis y Natasha están en el balcón, ella sentada en sus rodillas con una copa de [[gorki-list|Gorki List]] que se calienta porque se olvida de tomarla; abajo pasa el Danubio. Luis le cuenta por enésima vez cómo escaparon de las cuevas bajo Kalemegdan. Desde Dorćol sube un bandoneón y discuten, otra vez, sobre el [[tango-mas-triste|tango]] que él nunca bailó.</p>
+<p>Suena el teléfono. Es Sergio, y su voz de «locutor de radio viejo» es un hilo: «Es que… perdió River». Silencio. «Papá, River pierde. Es fútbol». Pero Sergio cuenta el resto: dos semanas de [[llanto-de-los-hombres|llanto]] en todo el país. «Vengan. Los dos». Natasha siente subirle el calor desde la nuca: «Esto no es natural, ljubavi». «Alguien lo hizo», dice Luis. «Entonces vamos a ir a ver quién». A la mañana siguiente compran los pasajes.</p>`,
+  sr: `<p>То је једна од оних септембарских ноћи када Београд мирише на липу и дим са роштиља. Луис и Наташа су на балкону, она му седи у крилу са чашом [[gorki-list|горког листа]] која се загрева јер заборавља да пије; доле протиче Дунав. Луис јој по ко зна који пут прича како су побегли из пећина испод Калемегдана. Са Дорћола допире бандонеон и они се поново споре око [[tango-mas-triste|танга]] који он никада није отплесао.</p>
+<p>Звони телефон. То је Серхио, а његов глас „старог радио-спикера“ танак је као конац: „Па… изгубио је Ривер.“ Тишина. „Тата, Ривер губи. То је фудбал.“ Али Серхио прича остало: две недеље [[llanto-de-los-hombres|плача]] у целој земљи. „Дођите. Обоје.“ Наташа осећа како јој се врелина пење уз потиљак: „Ово није природно, љубави.“ „Неко је то урадио“, каже Луис. „Онда идемо да видимо ко.“ Следећег јутра купују карте.</p>`,
+  see: ['llanto-de-los-hombres', 'tango-mas-triste']
+},
+
+{
+  id: 'escena-mulanima', cat: 'escenas', order: 27, nuevo: true,
+  img: 'img/vendimia/08-1.jpg',
+  cap: { es: 'Yanina con la mano en el hocico de la Mulánima.', sr: 'Јанина са руком на Муланиминој њушци.' },
+  t: { es: 'La reina que domó a la bestia', sr: 'Краљица која је укротила звер' },
+  sum: { es: 'Cuarenta mil personas hipnotizadas y una reina desconocida que canta una canción de cuna.', sr: 'Четрдесет хиљада хипнотисаних људи и непозната краљица која пева успаванку.' },
+  info: { es: [['Novela', '[[libro-reina-vendimia]], caps. 7–9'], ['Lugar', '[[teatro-griego]]'], ['Personajes', '[[jana|Jana / Yanina]], [[mulanima]], [[luis]]']], sr: [['Роман', '[[libro-reina-vendimia]], 7–9. поглавље'], ['Место', '[[teatro-griego|Грчки театар]]'], ['Ликови', '[[jana|Јана / Јанина]], [[mulanima|Муланима]], [[luis]]']] },
+  es: `<p>En pleno acto central de la [[vendimia]], la [[mulanima]] sale de la tierra y avanza hacia el escenario: el casco golpea la piedra, <i>tum</i>. Jana tiene tanto miedo que no siente las manos ni los pies. Pero no se mueve: lo aprendió en el subsuelo de Praga, «entre caballeros dormidos y ríos subterráneos y un corazón de piedra que casi se le apaga entre los dedos». Mira a la bestia a los ojos. Son rojos como brasas, como los de las cuarenta mil personas de las gradas; pero debajo hay «un color dorado, cálido».</p>
+<p>Le canta una canción de cuna. La Mulánima baja el cuello hasta el escenario, se queda quieta, la mira una última vez y se hunde en la grieta «como un sol que se pone». Las gradas empiezan a corear un nombre hasta hacerlas temblar. Al día siguiente, <i>Los Andes</i> titula: «La reina que domó a la bestia». Entre la gente, Luis —que la vio pasar en el carro sin reconocerla del todo— se queda con un hilo en la palma de la mano y, «por primera vez en toda la misión», no entiende absolutamente nada.</p>`,
+  sr: `<p>Усред главне свечаности [[vendimia|Вендимије]] [[mulanima|Муланима]] излази из земље и креће ка позорници: копито удара о камен, <i>тум</i>. Јана је толико уплашена да не осећа ни руке ни ноге. Али не помера се: научила је то у прашком подземљу, „међу уснулим витезовима, подземним рекама и каменим срцем које јој се умало није угасило међу прстима“. Гледа звер у очи. Црвене су као жар, као очи четрдесет хиљада људи на трибинама; али испод тога је „златна, топла боја“.</p>
+<p>Пева јој успаванку. Муланима спушта врат до позорнице, умири се, погледа је последњи пут и утоне у пукотину „као сунце на заласку“. Трибине почињу да скандирају једно име док не задрхте. Сутрадан новине <i>Los Andes</i> пишу: „Краљица која је укротила звер“. Међу људима, Луис — који ју је видео у колима не препознавши је сасвим — остаје са концем на длану и „први пут у целој мисији“ не разуме апсолутно ништа.</p>`,
+  see: ['jana', 'mulanima', 'teatro-griego']
 }
 
 );

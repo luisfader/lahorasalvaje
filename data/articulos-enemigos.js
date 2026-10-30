@@ -3,8 +3,8 @@
 
 {
   id: 'ala-artan', cat: 'enemigos', order: 1, featured: true,
-  img: 'img/portadas/dikij-chas.jpg',
-  cap: { es: 'Belgrado en llamas en la portada de «Дикий час».', sr: 'Београд у пламену на корици „Дикий час“.' },
+  img: 'img/belgrado/31-gigant.jpg',
+  cap: { es: 'Luis, gigante, frente a la torre en llamas.', sr: 'Луис, див, пред запаљеном кулом.' },
   t: { es: 'Artan / Ala-Artan', sr: 'Артан / Ала-Артан' }, alt: ['Artan', 'Ala', 'demonio de las tormentas', 'Ала'],
   sum: { es: 'Conspirador de barba negra que se convierte en el gigantesco demonio de las tormentas.', sr: 'Црнобради заверник који се претвара у дивовског демона олуја.' },
   info: {
@@ -12,12 +12,14 @@
     sr: [['Роман', '[[libro-dikij-chas]]'], ['База', '[[kula-nebojsa]]'], ['Савезници', '[[sofia]], [[john]]'], ['Коначни облик', 'Ала, демон олуја'], ['Мрзи', 'Вештице'], ['Поражен од', '[[luis]] (див), [[zmaj]] и [[natasa]]']]
   },
   es: `<p><b>Artan</b> es el gran antagonista de [[libro-dikij-chas]]: un hombre alto, de larga barba negra y mirada pesada, originario de un pequeño lugar de montaña lejos de la capital, con un pasado ligado a «asuntos oscuros y contactos peligrosos». Se reúne de noche en la [[kula-nebojsa|torre Nebojša]] con [[sofia|Sofía]] y [[john|John]]: «Esta ciudad será nuestra. La hora salvaje es nuestra oportunidad».</p>
+<figure class="thumb"><img src="img/belgrado/23-reka.jpg" alt="" data-cap="El río se lleva a Artan… por ahora (cap. 23)."><figcaption>El río se lleva a Artan… por ahora (cap. 23).</figcaption></figure>
 <h2>El odio a las brujas</h2>
 <p>Artan está convencido de que [[natasa|Natasha]] es una bruja y ordena a Sofía que se la traiga. Los propios aliados lo critican porque «habla demasiado de brujas en vez de pensar en el resultado». Decía que las brujas son «un error del mundo». Tras un primer enfrentamiento, la corriente del Danubio parece llevarse sus últimas huellas… pero jura volver: «Volveré. Y lo pagarán todos».</p>
 <h2>Ala-Artan</h2>
 <p>Cuando empieza la [[divlji-cas|hora salvaje]], la oscuridad sube desde el Danubio: primero un viento antinatural, luego el agua que hierve «como un ser vivo». De ella surge <b>Ala</b>, el demonio de las tormentas de la tradición eslava, «nacido de las tormentas, los huracanes y la furia del cielo», que siempre llega «cuando el mundo cruje». Artan se funde con él y se convierte en un gigante hecho de nubes de tormenta y odio ajeno, casi el doble de grande que Zmaj.</p>
 <p>Véase [[escena-batalla-ala]] para la batalla final.</p>`,
   sr: `<p><b>Артан</b> је главни антагониста романа [[libro-dikij-chas]]: висок човек дуге црне браде и тешког погледа, пореклом из малог планинског места далеко од престонице, са прошлошћу везаном за „мрачне послове и опасне везе“. Ноћу се састаје у [[kula-nebojsa|кули Небојши]] са [[sofia|Софијом]] и [[john|Џоном]]: „Овај град ће бити наш. Дивљи час је наша прилика.“</p>
+<figure class="thumb"><img src="img/belgrado/23-reka.jpg" alt="" data-cap="Река односи Артана… засад (23. поглавље)."><figcaption>Река односи Артана… засад (23. поглавље).</figcaption></figure>
 <h2>Мржња према вештицама</h2>
 <p>Артан је убеђен да је [[natasa|Наташа]] вештица и наређује Софији да му је доведе. Чак и савезници му замерају што „превише прича о вештицама уместо да мисли на резултат“. Говорио је да су вештице „грешка света“. После првог сукоба чини се да је матица Дунава однела његове последње трагове… али он се заклиње: „Вратићу се. И сви ће платити.“</p>
 <h2>Ала-Артан</h2>
@@ -28,6 +30,8 @@
 
 {
   id: 'sofia', cat: 'enemigos', order: 2,
+  img: 'img/belgrado/11-dosje.jpg',
+  cap: { es: 'Sofía abre el expediente con la foto de Natasha.', sr: 'Софија отвара досије са Наташином фотографијом.' },
   t: { es: 'Sofía', sr: 'Софија' }, alt: ['Sofia', 'София'],
   sum: { es: 'Antigua compañera de estudios de Natasha; traidora movida por la envidia.', sr: 'Наташина некадашња школска другарица; издајница коју покреће завист.' },
   info: {
@@ -47,6 +51,8 @@
 
 {
   id: 'john', cat: 'enemigos', order: 3,
+  img: 'img/belgrado/18-sofija-i-dzhon.jpg',
+  cap: { es: 'Sofía y John vigilan a la pareja en Skadarlija.', sr: 'Софија и Џон прате пар у Скадарлији.' },
   t: { es: 'John', sr: 'Џон' }, alt: ['Джон', 'Džon'],
   sum: { es: 'Agente occidental armado, humillado una y otra vez.', sr: 'Наоружани западни агент, понижаван изнова и изнова.' },
   info: {
@@ -54,8 +60,10 @@
     sr: [['Роман', '[[libro-dikij-chas]]'], ['Страна', 'Запад'], ['Савезници', '[[sofia]], [[ala-artan|Артан]]'], ['Судбина', 'Ухапсиле га [[marina]] и [[katarina]]']]
   },
   es: `<p><b>John</b> es el agente occidental de la conspiración de la [[kula-nebojsa]]. Es él quien entrega a [[sofia|Sofía]] la carpeta con la foto de Natasha: «Según las fuentes de inteligencia, ella es capaz de amplificar el efecto de la hora salvaje». Irrumpe armado en el apartamento de Natasha y apunta a la pareja dentro de la torre, donde Luis le responde con una burla sobre geografía ([[escena-leccion-geografia]]).</p>
+<figure class="thumb"><img src="img/belgrado/33-dzhon.jpg" alt="" data-cap="John, detenido tras la batalla."><figcaption>John, detenido tras la batalla.</figcaption></figure>
 <p>A tres minutos de la hora salvaje, Sofía lo humilla: «No sabía que eras un llorón. ¡Deja de lloriquear y ve a buscar a esos cretinos!». John aprieta los dientes «no de miedo, sino de humillación». Al final [[marina|Marina]] y [[katarina|Katarina]] se lo llevan detenido.</p>`,
   sr: `<p><b>Џон</b> је западни агент завере из [[kula-nebojsa|куле Небојше]]. Он даје [[sofia|Софији]] фасциклу са Наташином фотографијом: „Према обавештајним изворима, она може да појача дејство Дивљег часа.“ Наоружан упада у Наташин стан и у кули упире оружје у пар, где му Луис одговара подсмехом о географији ([[escena-leccion-geografia]]).</p>
+<figure class="thumb"><img src="img/belgrado/33-dzhon.jpg" alt="" data-cap="Џон, ухапшен после битке."><figcaption>Џон, ухапшен после битке.</figcaption></figure>
 <p>Три минута пре Дивљег часа Софија га понижава: „Нисам знала да си плачљивко. Престани да кукаш и иди нађи те кретене!“ Џон стеже зубе „не од страха, него од понижења“. На крају га [[marina|Марина]] и [[katarina|Катарина]] одводе ухапшеног.</p>`,
   see: ['sofia', 'alianza-del-norte']
 },
@@ -137,7 +145,7 @@
 {
   id: 'tauran', cat: 'enemigos', order: 30, featured: true,
   img: 'img/portadas/karneval.jpg',
-  cap: { es: 'Portada de «Дикий час: Карнавал раздора».', sr: 'Корица романа „Карневал раздора“.' },
+  cap: { es: 'Portada de «Дикий час: Карнавал раздора».', sr: 'Корица романа „Карнавал раздора“.' },
   t: { es: 'Tauran, el dios-toro', sr: 'Тауран, бог-бик' }, alt: ['Tauran', 'Тауран', 'toro', 'бик'],
   sum: { es: 'Antiguo dios-toro íbero despertado en Madrid tras el carnaval.', sr: 'Древни иберски бог-бик пробуђен у Мадриду после карневала.' },
   info: {
@@ -261,19 +269,25 @@
 
 {
   id: 'maquina-veneciana', cat: 'enemigos', order: 61,
-  img: 'img/portadas/venecija.jpg',
-  cap: { es: 'Portada de «L’ora selvaggia: La stregoneria veneziana».', sr: 'Корица романа „L’ora selvaggia: Венецијанско вештичарење“.' },
+  img: 'img/portadas/venecija-ru.jpg',
+  cap: { es: 'Portada de «Дикий час: Венецианское колдовство».', sr: 'Корица романа „Дикий час: Венецијанско вештичарење“.' },
   t: { es: 'La máquina veneciana', sr: 'Венецијанска машина' },
   sum: { es: 'Una máquina oculta en Venecia que arranca el alma y la voluntad de las personas.', sr: 'Машина скривена у Венецији која људима отима душу и вољу.' },
   info: {
-    es: [['Novela', '[[libro-venecia]]'], ['Lugar', 'Profundidades de [[venecia|Venecia]]'], ['Efecto', 'Convierte a las personas en cáscaras vacías'], ['Armas de Luis', '[[cubo-rubik]] mágico y un cuaderno que invoca criaturas mitológicas']],
-    sr: [['Роман', '[[libro-venecia]]'], ['Место', 'Дубине [[venecia|Венеције]]'], ['Дејство', 'Претвара људе у празне љуштуре'], ['Луисово оружје', 'Чаробна [[cubo-rubik|Рубикова коцка]] и свеска која призива митолошка бића']]
+    es: [['Novela', '[[libro-venecia]]'], ['Lugar', 'Profundidades de [[venecia|Venecia]]'], ['Efecto', 'Convierte a las personas en cáscaras vacías'], ['Armas de Luis', '[[cubo-rubik]] mágico y un cuaderno que invoca criaturas mitológicas'], ['Dueño', '[[mcgregor]]'], ['Escondite', '[[arsenal]]']],
+    sr: [['Роман', '[[libro-venecia]]'], ['Место', 'Дубине [[venecia|Венеције]]'], ['Дејство', 'Претвара људе у празне љуштуре'], ['Луисово оружје', 'Чаробна [[cubo-rubik|Рубикова коцка]] и свеска која призива митолошка бића'], ['Власник', '[[mcgregor]]'], ['Скровиште', '[[arsenal|Арсенал]]']]
   },
   es: `<p>En [[libro-venecia]], [[venecia|Venecia]] —«ciudad de máscaras y de antiguos secretos»— esconde en sus profundidades una máquina terrible creada por fuerzas oscuras. Poco a poco se apodera de la mente de los hombres, les quita el alma, la voluntad y la humanidad, y los convierte en cáscaras vacías, «sin el fuego de la vida». Si no se destruye, «la civilización perderá para siempre su alma».</p>
-<p>Armado con un [[cubo-rubik|cubo de Rubik mágico]] y un cuaderno con el que [[dibujos-de-luis|evoca criaturas mitológicas]], Luis entra en batalla contra «la máquina más peligrosa de la historia». A la vez, Natasha enfrenta una prueba personal: una mujer que despierta en ella unos celos «ardientes, casi primordiales».</p>`,
+<p>Armado con un [[cubo-rubik|cubo de Rubik mágico]] y un cuaderno con el que [[dibujos-de-luis|evoca criaturas mitológicas]], Luis entra en batalla contra «la máquina más peligrosa de la historia». A la vez, Natasha enfrenta una prueba personal: una mujer que despierta en ella unos celos «ardientes, casi primordiales».</p>
+<h2>Cómo funciona</h2>
+<p>La versión rusa de la novela permite ver la máquina de cerca: un artefacto de arcos metálicos, cilindros de vidrio, venas de cobre y anillos que giran, «a la vez órgano, altar y animal», cuyas articulaciones se mueven «como si bajo el acero trabajaran músculos». No lava el cerebro con mentiras, sino con un discurso halagador: «Los subestimaron. Les enseñaron a avergonzarse de sí mismos… Trabajen, aguanten, adáptense». Los hombres que la escuchan se vuelven groseros, violentos y deseosos de mandar sobre quienes tienen al lado; a los que se resisten, les saca de dentro sus miedos más vergonzosos.</p>
+<p>Atrae a los hombres al [[arsenal]] con la promesa de entradas gratis para el fútbol, crea monstruos-gondoleros en los canales y, desde Venecia, el caos se extiende a París, Roma, Viena y Berlín. Roberto la destroza, pero la [[mcgregor|cúpula de McGregor]] sigue en pie hasta la [[escena-anticupula]]. Véase también [[analogia-maquina]].</p>`,
   sr: `<p>У роману [[libro-venecia]] [[venecia|Венеција]] — „град маски и древних тајни“ — у својим дубинама крије страшну машину коју су створиле мрачне силе. Мало-помало она овладава умом људи, одузима им душу, вољу и људскост и претвара их у празне љуштуре, „без ватре живота“. Ако не буде уништена, „цивилизација ће заувек изгубити душу“.</p>
-<p>Наоружан [[cubo-rubik|чаробном Рубиковом коцком]] и свеском којом [[dibujos-de-luis|призива митолошка бића]], Луис улази у битку против „најопасније машине у историји“. Истовремено Наташа пролази кроз лично искушење: жена која у њој буди „пламену, скоро исконску“ љубомору.</p>`,
-  see: ['venecia', 'cubo-rubik']
+<p>Наоружан [[cubo-rubik|чаробном Рубиковом коцком]] и свеском којом [[dibujos-de-luis|призива митолошка бића]], Луис улази у битку против „најопасније машине у историји“. Истовремено Наташа пролази кроз лично искушење: жена која у њој буди „пламену, скоро исконску“ љубомору.</p>
+<h2>Како ради</h2>
+<p>Руска верзија романа омогућава да се машина види изблиза: направа од металних лукова, стаклених цилиндара, бакарних жила и прстенова који се окрећу, „истовремено оргуље, олтар и животиња“, чији се зглобови крећу „као да испод челика раде мишићи“. Она не испира мозак лажима, него ласкавим говором: „Потцењивали су вас. Учили су вас да се стидите самих себе… Радите, трпите, прилагођавајте се.“ Мушкарци који је слушају постају груби, насилни и жељни да владају онима поред себе; онима који се опиру извлачи из дубине најсрамније страхове.</p>
+<p>Мушкарце мами у [[arsenal|Арсенал]] обећањем бесплатних карата за фудбал, у каналима ствара чудовишта-гондолијере, а из Венеције се хаос шири на Париз, Рим, Беч и Берлин. Роберто је разбија, али [[mcgregor|Макгрегорова купола]] остаје све до [[escena-anticupula|антикуполе]]. Види и [[analogia-maquina]].</p>`,
+  see: ['venecia', 'cubo-rubik', 'mcgregor', 'arsenal', 'analogia-maquina']
 },
 
 {
@@ -310,6 +324,95 @@
   sr: `<p>У краткој повести [[libro-dc6]] изнад Београда се појављује жена „велика као зграда“, плод пластичне хирургије која је пошла наопако, „лепа по западним мерилима“. Из њеног тела излази сладак, отрован мирис: мушкарци почињу да се гуше, срца им лупају као бубњеви, а погледи постају празни. „Ово није љубав“, каже Наташа. „Ово је оружје.“</p>
 <p>Ни шумска вила са крилима од маховине ни [[malon|Малон]] — чији се ратници уплашено заустављају — не могу ништа против ње. Само Луиса не дотиче („јер те волим на прави начин“). [[ola-rosa|Ружичасти талас]] је ломи, а Наташа виче целом граду: „Волите јако! Волите једног! Волите као што воли словенска душа!“</p>`,
   see: ['ola-rosa', 'libro-dc6']
+}
+,
+
+{
+  id: 'mcgregor', cat: 'enemigos', order: 62, featured: true, nuevo: true,
+  img: 'img/portadas/venecija-ru.jpg',
+  cap: { es: 'Venecia bajo la sombra de McGregor.', sr: 'Венеција у Макгрегоровој сенци.' },
+  t: { es: 'McGregor', sr: 'Макгрегор' }, alt: ['Макгрегор', 'Mac Gregor', 'cúpula'],
+  sum: { es: 'El frío estratega que controla la máquina de Venecia y encierra la ciudad bajo una cúpula.', sr: 'Хладни стратег који управља венецијанском машином и затвара град под куполу.' },
+  info: {
+    es: [['Novela', '[[libro-venecia]]'], ['Base', '[[arsenal]]'], ['Arma', '[[maquina-veneciana]]; la cúpula de luz'], ['Aliado', 'Un consejero sin nombre'], ['Bando', 'Magia del noroeste'], ['Derrotado por', '[[escena-anticupula|La anticúpula]]']],
+    sr: [['Роман', '[[libro-venecia]]'], ['База', '[[arsenal|Арсенал]]'], ['Оружје', '[[maquina-veneciana]]; купола од светлости'], ['Савезник', 'Безимени саветник'], ['Страна', 'Магија северозапада'], ['Поражен од', '[[escena-anticupula|Антикуполе]]']]
+  },
+  es: `<p><b>McGregor</b> es el villano de la novela de Venecia. Desde una sala en penumbra del [[arsenal]], con las palmas apoyadas en la mesa, estudia en una pantalla a sus enemigos con una calma «que no era relajación, sino cálculo». Un consejero sin nombre, de movimientos suaves y precisos, analiza a su lado el rostro de Luis: «Este hombre representa otro tipo de amenaza».</p>
+<h2>Método</h2>
+<p>McGregor no actúa como un conquistador, sino «como el arquitecto de una nueva realidad en la que no quedaba lugar para el azar». Su ejército de hombres hipnotizados por la [[maquina-veneciana|máquina]] se convierte en el «sistema nervioso» de la ciudad. Para él, la debilidad de los hombres no es un accidente: «Es una debilidad a la que se le permitió crecer en la dirección correcta». Cuando Luis cae poseído en San Marco, McGregor murmura: «Y ahora llegará nuestro tiempo».</p>
+<h2>La cúpula</h2>
+<p>Incluso con la máquina destruida, McGregor retiene la ciudad bajo una cúpula de luz que se alimenta «desde abajo» y que encierra a [[zmaj]] como una jaula. Cuando Roberto y Natalia, desde la profundidad, y Luis y Natasha, desde el Arsenal, despiertan la anticúpula, la cúpula tiembla en amarillo y rojo: «El miedo puede sostener mucho tiempo a la gente si está dividida, pero pierde su poder…». Se deshace en miles de chispas que no queman a nadie.</p>`,
+  sr: `<p><b>Макгрегор</b> је зликовац романа о Венецији. Из полумрачне сале у [[arsenal|Арсеналу]], ослоњен длановима на сто, проучава на екрану своје непријатеље са мирноћом „која није била опуштеност, него рачун“. Безимени саветник, меких и прецизних покрета, поред њега анализира Луисово лице: „Овај човек представља другачију врсту претње.“</p>
+<h2>Метод</h2>
+<p>Макгрегор не делује као освајач, него „као архитекта нове стварности у којој нема места случају“. Његова војска мушкараца хипнотисаних [[maquina-veneciana|машином]] постаје „нервни систем“ града. За њега слабост мушкараца није случајност: „То је слабост којој је допуштено да расте у правом смеру.“ Када Луис падне запоседнут на тргу Светог Марка, Макгрегор промрмља: „А сада ће доћи наше време.“</p>
+<h2>Купола</h2>
+<p>Чак и кад је машина уништена, Макгрегор држи град под куполом од светлости која се храни „одоздо“ и која затвара [[zmaj|Змаја]] као кавез. Када Роберто и Наталија, из дубине, и Луис и Наташа, из Арсенала, пробуде антикуполу, купола задрхти жуто и црвено: „Страх може дуго да држи људе ако су подељени, али губи моћ…“ Распада се у хиљаде искри које никога не пеку.</p>`,
+  see: ['maquina-veneciana', 'arsenal', 'escena-anticupula']
+},
+
+{
+  id: 'mulanima', cat: 'enemigos', order: 63, nuevo: true,
+  img: 'img/vendimia/07-1.jpg',
+  cap: { es: 'La Mulánima emerge en el Teatro Griego.', sr: 'Муланима израња у Грчком театру.' },
+  t: { es: 'La Mulánima', sr: 'Муланима' }, alt: ['Mulánima', 'mula ánima', 'Муланима'],
+  sum: { es: 'Bestia de tierra y fuego despertada bajo la Mendoza colonial, que no obedece a nadie desde hace 400 años.', sr: 'Звер од земље и ватре пробуђена испод колонијалне Мендозе, која 400 година никога не слуша.' },
+  info: {
+    es: [['Novela', '[[libro-reina-vendimia]]'], ['Origen', 'Bajo la [[mendoza-colonial|Mendoza colonial]]'], ['Aspecto', 'Cabeza de mula de tierra y piedra, crines de fuego, ojos rojos'], ['Poder', 'Tragar la energía de la cosecha; hipnotizar multitudes'], ['Calmada por', '[[jana|Yanina]]']],
+    sr: [['Роман', '[[libro-reina-vendimia]]'], ['Порекло', 'Испод [[mendoza-colonial|колонијалне Мендозе]]'], ['Изглед', 'Глава мазге од земље и камена, огњена грива, црвене очи'], ['Моћ', 'Гута енергију бербе; хипнотише масе'], ['Смирила ју је', '[[jana|Јанина]]']]
+  },
+  es: `<p>La <b>Mulánima</b> es una criatura del folclore cuyano. En [[libro-reina-vendimia]] alguien la despierta en una cripta bajo las ruinas de la ciudad colonial: «El sábado, cuando cuarenta mil personas estén gritando en el Teatro Griego y las uvas estén en su punto más dulce, la Mulánima va a salir a buscar lo que le pertenece».</p>
+<p>Sale de la tierra en pleno espectáculo de la [[vendimia]]: primero los cascos que golpean el suelo —<i>tum</i>—, luego una cabeza «larga, enorme, parecida a la de una mula, pero hecha de tierra oscura y de piedra, con grietas por las que se veía brillar una luz interior», hasta ser tan alta como los árboles más altos del parque. Traga las luces del escenario y la energía de la cosecha; los ojos de las cuarenta mil personas de las gradas se vuelven rojos como los suyos. Durante once minutos hipnotiza a la provincia entera.</p>
+<p>Pero bajo el rojo de sus ojos, [[jana|Jana]] ve «un color dorado, cálido». Le canta una canción de cuna y la bestia baja la cabeza hasta el escenario y se hunde en la grieta «como un sol que se pone». Los habitantes de la [[isla-flotante]] no entienden por qué la Mulánima, «que no obedece a nadie desde hace cuatrocientos años», se inclinó ante ella.</p>`,
+  sr: `<p><b>Муланима</b> је биће из фолклора Кујо. У роману [[libro-reina-vendimia]] неко је буди у крипти испод рушевина колонијалног града: „У суботу, када четрдесет хиљада људи буде викало у Грчком театру, а грожђе буде најслађе, Муланима ће изаћи да узме оно што јој припада.“</p>
+<p>Излази из земље усред спектакла [[vendimia|Вендимије]]: најпре копита која ударају о тло — <i>тум</i> — затим глава „дугачка, огромна, налик глави мазге, али од тамне земље и камена, са пукотинама кроз које се видела унутрашња светлост“, док не постане висока као највише дрвеће у парку. Гута светла позорнице и енергију бербе; очи четрдесет хиљада људи на трибинама постају црвене као њене. Једанаест минута хипнотише целу провинцију.</p>
+<p>Али испод црвенила њених очију [[jana|Јана]] види „златну, топлу боју“. Пева јој успаванку, а звер спушта главу до позорнице и тоне у пукотину „као сунце на заласку“. Становници [[isla-flotante|летећег острва]] не разумеју зашто се Муланима, „која већ четиристо година никога не слуша“, поклонила пред њом.</p>`,
+  see: ['jana', 'hunuc-huar', 'escena-mulanima']
+},
+
+{
+  id: 'isla-flotante', cat: 'enemigos', order: 64, nuevo: true,
+  img: 'img/vendimia/09-1.jpg',
+  cap: { es: 'Los tres de la isla, sobre las luces de Mendoza.', sr: 'Тројица са острва, изнад светала Мендозе.' },
+  t: { es: 'Los señores de la isla flotante', sr: 'Господари летећег острва' }, alt: ['isla', 'острво', 'volcán'],
+  sum: { es: 'Tres figuras en una isla con volcán que vigilan Praga, Belgrado, Venecia, Moscú… y ahora Mendoza.', sr: 'Три прилике на острву са вулканом које надзиру Праг, Београд, Венецију, Москву… а сада и Мендозу.' },
+  info: {
+    es: [['Novela', '[[libro-reina-vendimia]]'], ['Miembros', 'El hombre del traje blanco; el hombre del poncho; la mujer del anillo negro'], ['Base', 'Isla flotante con volcán, torres de vidrio y antenas'], ['Objetivos marcados', 'Praga, Belgrado, Venecia, Moscú, Mendoza']],
+    sr: [['Роман', '[[libro-reina-vendimia]]'], ['Чланови', 'Човек у белом оделу; човек у пончу; жена са црним прстеном'], ['База', 'Летеће острво са вулканом, стакленим кулама и антенама'], ['Означене мете', 'Праг, Београд, Венеција, Москва, Мендоза']]
+  },
+  es: `<p>Al final de [[libro-reina-vendimia]] aparece una isla que flota sobre Mendoza. No es como las islas oscuras de castillos negros y cadenas que colgaron sobre Praga: tiene un volcán en la cima, torres de vidrio oscuro, antenas y plataformas de metal. En una de ellas, ante un ventanal que da al vacío, hablan tres figuras:</p>
+<ul>
+<li><b>El hombre del traje blanco</b>, alto y delgado, de pelo gris peinado hacia atrás, «acostumbrado a que los planes fracasen y a hacer otros».</li>
+<li><b>El hombre del poncho</b>, de voz grave y ojos con reflejo rojo, que despertó a la [[mulanima]] en la cripta: «Hipnotizó a la provincia entera durante once minutos. Es más de lo que logramos en cualquier otro lugar».</li>
+<li><b>La mujer del anillo negro</b>, sentada de espaldas en la sombra; solo se ven sus manos finas y pálidas y una piedra negra que no refleja la luz. «Quiero saber quién es esa chica. Su nombre verdadero».</li>
+</ul>
+<p>En las paredes, mapas de la Tierra con puntos rojos: Praga, Belgrado, Venecia, Moscú… y un círculo fresco sobre Mendoza. La novela todavía está en curso: no se sabe quiénes son ni por qué eligieron Mendoza.</p>`,
+  sr: `<p>На крају романа [[libro-reina-vendimia]] појављује се острво које лебди над Мендозом. Није као мрачна острва са црним замковима и ланцима која су висила над Прагом: на врху има вулкан, куле од тамног стакла, антене и металне платформе. На једној од њих, пред огромним прозором окренутим празнини, разговарају три прилике:</p>
+<ul>
+<li><b>Човек у белом оделу</b>, висок и мршав, седе косе зачешљане уназад, „навикао да планови пропадају и да прави нове“.</li>
+<li><b>Човек у пончу</b>, дубоког гласа и очију са црвеним одсјајем, који је пробудио [[mulanima|Муланиму]] у крипти: „Једанаест минута је хипнотисала целу провинцију. То је више него што смо постигли било где.“</li>
+<li><b>Жена са црним прстеном</b>, која седи окренута леђима у сенци; виде се само њене танке, бледе руке и црни камен који не одбија светлост. „Хоћу да знам ко је та девојка. Њено право име.“</li>
+</ul>
+<p>На зидовима су мапе Земље са црвеним тачкама: Праг, Београд, Венеција, Москва… и свеж круг око Мендозе. Роман је још у писању: не зна се ко су ни зашто су изабрали Мендозу.</p>`,
+  see: ['mulanima', 'jana']
+},
+
+{
+  id: 'llanto-de-los-hombres', cat: 'enemigos', order: 65, nuevo: true,
+  img: 'img/portadas/tango.jpg',
+  cap: { es: 'Portada de «La hora salvaje: El tango más triste».', sr: 'Корица романа „Дивљи час: Најтужнији танго“.' },
+  t: { es: 'La epidemia de llanto', sr: 'Епидемија плача' }, alt: ['llanto', 'плач', 'hombres que lloran'],
+  sum: { es: 'Desde hace dos semanas los hombres de toda la Argentina lloran por cualquier cosa. Alguien lo hizo a propósito.', sr: 'Већ две недеље мушкарци широм Аргентине плачу због било чега. Неко је то урадио намерно.' },
+  info: {
+    es: [['Novela', '[[libro-tango]]'], ['Lugar', 'Argentina, sobre todo [[buenos-aires|Buenos Aires]]'], ['Síntoma', 'Los hombres lloran; las mujeres se ríen'], ['Responsable', 'Desconocido (un cetro misterioso, extranjeros en la Casa Rosada)']],
+    sr: [['Роман', '[[libro-tango]]'], ['Место', 'Аргентина, нарочито [[buenos-aires|Буенос Ајрес]]'], ['Симптом', 'Мушкарци плачу, жене се смеју'], ['Одговорни', 'Непознат (тајанствено жезло, странци у Каса Росади)']]
+  },
+  es: `<p>La amenaza de [[libro-tango]] empieza como una anécdota: [[sergio|Sergio]] llora porque perdió River. Pero pronto queda claro que no es fútbol. «Hace dos semanas que es así. Por todo. Por un colectivo que no para. Por una factura de luz. El vecino del tercero lloró porque se le quemó un bife». El portero llora, el diariero de la calle Florida llora sobre las revistas, el relator de radio llora tanto que tienen que pasar música… y ponen un tango, que es peor. Mientras tanto, las mujeres se ríen.</p>
+<p>Luis lo analiza como argentino: «Los argentinos no lloran porque pierde el club. Se enojan, putean, rompen una silla, el lunes no van a trabajar. Pero llorar… se llora cuando pierde la Selección. Y con orgullo». Natasha lo resume: «Un país entero no se pone a llorar porque sí». «No —dice Luis—. Alguien lo hizo».</p>
+<p>Según la sinopsis, en Buenos Aires los esperan un cetro misterioso, una Casa Rosada custodiada por extranjeros, monstruos de leyenda y estatuas que se mueven. La novela está protegida en litmir a partir del segundo capítulo, así que este artículo solo cubre el comienzo.</p>`,
+  sr: `<p>Претња у роману [[libro-tango]] почиње као анегдота: [[sergio|Серхио]] плаче јер је Ривер изгубио. Али убрзо постаје јасно да то није фудбал. „Већ две недеље је овако. Због свега. Због аутобуса који не стаје. Због рачуна за струју. Комшија са трећег спрата је плакао јер му је загорео бифтек.“ Портир плаче, продавац новина у улици Флорида плаче над часописима, радио-спикер плаче толико да морају да пусте музику… и пусте танго, што је још горе. У међувремену, жене се смеју.</p>
+<p>Луис то анализира као Аргентинац: „Аргентинци не плачу кад изгуби клуб. Љуте се, псују, поломе столицу, у понедељак не иду на посао. Али плакати… плаче се кад изгуби репрезентација. И то с поносом.“ Наташа закључује: „Цела једна земља не почне да плаче тек тако.“ „Не“, каже Луис. „Неко је то урадио.“</p>
+<p>Према синопсису, у Буенос Ајресу их чекају тајанствено жезло, Каса Росада коју чувају странци, чудовишта из легенди и статуе које се крећу. Роман је на litmir-у заштићен од другог поглавља, па овај чланак покрива само почетак.</p>`,
+  see: ['libro-tango', 'tango-mas-triste']
 }
 
 );

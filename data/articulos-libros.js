@@ -67,7 +67,7 @@
 {
   id: 'libro-karneval', cat: 'libros', order: 4,
   img: 'img/portadas/karneval.jpg',
-  cap: { es: 'Portada de «Карнавал раздора».', sr: 'Корица романа „Карнавал раздора“.' },
+  cap: { es: 'Nueva portada de «Карнавал раздора».', sr: 'Нова корица романа „Карнавал раздора“.' },
   t: { es: 'Дикий час: El carnaval de la discordia', sr: 'Дивљи час: Карневал раздора' }, alt: ['Карнавал раздора'],
   sum: { es: 'Madrid enloquece tras las luces del carnaval: toros, fantasmas y el Malón.', sr: 'Мадрид полуди после светала на карневалу: бикови, авети и Малон.' },
   info: {
@@ -137,11 +137,17 @@
   t: { es: 'La hora salvaje: La brujería veneciana', sr: 'Дивљи час: Венецијанско вештичарење' }, alt: ['L’ora selvaggia', 'Venezia'],
   sum: { es: 'Una máquina que roba almas bajo Venecia y unos celos primordiales.', sr: 'Машина која краде душе испод Венеције и исконска љубомора.' },
   info: {
-    es: [['Idioma', 'Italiano (36 caps.)'], ['Escenario', '[[venecia|Venecia]]'], ['Villano', '[[maquina-veneciana]]']],
-    sr: [['Језик', 'Италијански (36 поглавља)'], ['Место радње', '[[venecia|Венеција]]'], ['Зликовац', '[[maquina-veneciana|Венецијанска машина]]']]
+    es: [['Idioma', 'Italiano (36 caps.)'], ['Escenario', '[[venecia|Venecia]]'], ['Villano', '[[maquina-veneciana]]'], ['Versión rusa', '«Дикий час: Венецианское колдовство» (36 caps., cierre de la saga)']],
+    sr: [['Језик', 'Италијански (36 поглавља)'], ['Место радње', '[[venecia|Венеција]]'], ['Зликовац', '[[maquina-veneciana|Венецијанска машина]]'], ['Руска верзија', '„Дикий час: Венецианское колдовство“ (36 поглавља, крај саге)']]
   },
-  es: `<p>«Venecia, ciudad de máscaras y de antiguos secretos, esconde en sus profundidades una máquina terrible, creada por fuerzas oscuras». Cuando llega una desesperada petición de ayuda, los protagonistas parten hacia la laguna. Junto a la amenaza global los espera una dura prueba personal: una mujer que despierta en Natasha unos celos ardientes. Armado con un cubo de Rubik mágico y un cuaderno con el que evoca antiguas criaturas mitológicas, Luis entra en batalla contra la máquina más peligrosa de la historia. «Si la máquina no es destruida, la civilización perderá para siempre su alma».</p>`,
-  sr: `<p>„Венеција, град маски и древних тајни, у својим дубинама крије страшну машину коју су створиле мрачне силе.“ Када стигне очајнички позив у помоћ, јунаци крећу у лагуну. Поред светске претње чека их и тешко лично искушење: жена која у Наташи буди пламену љубомору. Наоружан чаробном Рубиковом коцком и свеском којом призива древна митолошка бића, Луис улази у битку против најопасније машине у историји. „Ако машина не буде уништена, цивилизација ће заувек изгубити душу.“</p>`,
+  es: `<p>«Venecia, ciudad de máscaras y de antiguos secretos, esconde en sus profundidades una máquina terrible, creada por fuerzas oscuras». Cuando llega una desesperada petición de ayuda, los protagonistas parten hacia la laguna. Junto a la amenaza global los espera una dura prueba personal: una mujer que despierta en Natasha unos celos ardientes. Armado con un cubo de Rubik mágico y un cuaderno con el que evoca antiguas criaturas mitológicas, Luis entra en batalla contra la máquina más peligrosa de la historia. «Si la máquina no es destruida, la civilización perderá para siempre su alma».</p>
+<h2>La versión rusa y el final de la saga</h2>
+<p>En 2026 la novela apareció también en ruso como <i>Дикий час: Венецианское колдовство</i>, completa y de libre lectura. Empieza en Sevilla, en la sede del [[sur-mistico|Sur Místico]], donde [[antonio-ferrer|Antonio Ferrer]] ve parpadear en rojo un único punto del mapa de Europa: Venecia. Luis recibe la llamada de su hermano [[roberto|Roberto]], y con Natasha vuela a la laguna, donde los acoge [[natalia-veneciana|Natalia]].</p>
+<p>La novela tiene algunos de los giros más duros de la serie: Luis cae bajo la máquina ([[escena-luis-poseido]]), Natasha levanta a las mujeres ([[escena-ejercito-mujeres]]), Roberto y Natalia deben reconciliarse para romper la cúpula ([[escena-anticupula]]). Termina con Luis y Natasha a orillas del Danubio ([[escena-danubio-final]]) y con una carta del autor que se despide de la saga: «Casi dos años viví junto a Luis y Natasha… ¡Hasta pronto en otras historias!».</p>`,
+  sr: `<p>„Венеција, град маски и древних тајни, у својим дубинама крије страшну машину коју су створиле мрачне силе.“ Када стигне очајнички позив у помоћ, јунаци крећу у лагуну. Поред светске претње чека их и тешко лично искушење: жена која у Наташи буди пламену љубомору. Наоружан чаробном Рубиковом коцком и свеском којом призива древна митолошка бића, Луис улази у битку против најопасније машине у историји. „Ако машина не буде уништена, цивилизација ће заувек изгубити душу.“</p>
+<h2>Руска верзија и крај саге</h2>
+<p>Године 2026. роман је изашао и на руском као <i>Дикий час: Венецианское колдовство</i>, у целини и слободан за читање. Почиње у Севиљи, у седишту [[sur-mistico|Мистичног југа]], где [[antonio-ferrer|Антонио Ферер]] види како на мапи Европе црвено трепери једна једина тачка: Венеција. Луис добија позив од брата [[roberto|Роберта]] и са Наташом лети у лагуну, где их дочекује [[natalia-veneciana|Наталија]].</p>
+<p>Роман доноси неке од најтежих преокрета у серији: Луис пада под власт машине ([[escena-luis-poseido]]), Наташа подиже жене ([[escena-ejercito-mujeres]]), Роберто и Наталија морају да се помире да би сломили куполу ([[escena-anticupula]]). Завршава се Луисом и Наташом на обали Дунава ([[escena-danubio-final]]) и ауторовим писмом којим се опрашта од саге: „Скоро две године живео сам поред Луиса и Наташе… Видимо се у другим причама!“</p>`,
   see: ['maquina-veneciana', 'venecia']
 },
 
@@ -174,12 +180,61 @@
   sr: `<p>Кратка прича коју приповеда Наташа. Мирно поподне уз [[gorki-list|горки лист]] на балкону прекида се када се појави џиновска жена чији мирис празни погледе мушкараца. Шумска вила и [[malon|Малон]] не успевају; побеђује је само Луисова љубав „на прави начин“. Завршава се тако што у седишту Савеза кажу: „Изгубили смо ову битку. Али вратићемо се.“ То је најотвореније полемичан део саге.</p>`,
   see: ['monstruo-amor-plastico', 'ola-rosa']
 }
+,
+
+{
+  id: 'libro-tango', cat: 'libros', order: 11, featured: true, nuevo: true,
+  img: 'img/portadas/tango.jpg',
+  cap: { es: 'Portada de «La hora salvaje: El tango más triste».', sr: 'Корица романа „La hora salvaje: El tango más triste“.' },
+  t: { es: 'La hora salvaje: El tango más triste', sr: 'Дивљи час: Најтужнији танго' }, alt: ['El tango más triste', 'tango'],
+  sum: { es: 'Novela en español: los hombres de la Argentina lloran y Luis y Natasha vuelan a Buenos Aires.', sr: 'Роман на шпанском: мушкарци у Аргентини плачу, а Луис и Наташа лете у Буенос Ајрес.' },
+  info: {
+    es: [['Autor', 'Luis Fader'], ['Idioma', 'Español (23 caps.; en litmir, protegido desde el cap. 2)'], ['Escenario', '[[belgrado|Belgrado]] → [[buenos-aires|Buenos Aires]]'], ['Amenaza', '[[llanto-de-los-hombres]]'], ['Personajes', '[[luis]], [[natasa]], [[sergio]]']],
+    sr: [['Аутор', 'Луис Фадер'], ['Језик', 'Шпански (23 поглавља; на litmir-у заштићен од 2. поглавља)'], ['Место радње', '[[belgrado|Београд]] → [[buenos-aires|Буенос Ајрес]]'], ['Претња', '[[llanto-de-los-hombres|Епидемија плача]]'], ['Ликови', '[[luis]], [[natasa]], [[sergio]]']]
+  },
+  es: `<p><b>La hora salvaje: El tango más triste</b> es la primera novela de la saga escrita en español. «Una noche de septiembre en Belgrado, Luis y Nátasha reciben una llamada desde Buenos Aires: Sergio, el padre de Luis, no puede dejar de llorar. Y no es el único. Hace dos semanas que los hombres de toda la Argentina lloran por cualquier cosa, mientras las mujeres se ríen».</p>
+<p>«Alguien lo hizo a propósito. Para descubrir quién, la pareja vuela a Buenos Aires, donde los esperan un cetro misterioso, una Casa Rosada custodiada por extranjeros, monstruos de leyenda, estatuas que se mueven… y el tango más triste, que Luis, en once años, nunca se animó a bailar con Nátasha».</p>
+<p>El primer capítulo es de lectura libre ([[escena-llamada-sergio]]); el resto está protegido en litmir, por lo que esta enciclopedia solo resume lo público. Llega después de que el autor se despidiera de la saga en la novela de Venecia.</p>`,
+  sr: `<p><b>Дивљи час: Најтужнији танго</b> (<i>La hora salvaje: El tango más triste</i>) први је роман саге написан на шпанском. „Једне септембарске ноћи у Београду Луис и Наташа добијају позив из Буенос Ајреса: Серхио, Луисов отац, не може да престане да плаче. И није једини. Већ две недеље мушкарци широм Аргентине плачу због било чега, а жене се смеју.“</p>
+<p>„Неко је то урадио намерно. Да би открио ко, пар лети у Буенос Ајрес, где их чекају тајанствено жезло, Каса Росада коју чувају странци, чудовишта из легенди, статуе које се крећу… и најтужнији танго, који Луис за једанаест година никада није смео да заигра са Наташом.“</p>
+<p>Прво поглавље је слободно за читање ([[escena-llamada-sergio]]); остатак је на litmir-у заштићен, па ова енциклопедија сажима само оно што је јавно. Долази после ауторовог опроштаја од саге у роману о Венецији.</p>`,
+  see: ['llanto-de-los-hombres', 'tango-mas-triste', 'buenos-aires']
+},
+
+{
+  id: 'libro-reina-vendimia', cat: 'libros', order: 12, nuevo: true,
+  img: 'img/portadas/reina-vendimia.jpg',
+  cap: { es: 'Portada de «La reina de la Vendimia».', sr: 'Корица романа „La reina de la Vendimia“.' },
+  t: { es: 'La reina de la Vendimia', sr: 'Краљица Вендимије' }, alt: ['Yanina', 'reina de la Vendimia'],
+  sum: { es: 'Cruce con la serie de Praga: Jana sigue a Luis hasta Mendoza y se convierte en reina.', sr: 'Укрштање са прашком серијом: Јана прати Луиса до Мендозе и постаје краљица.' },
+  info: {
+    es: [['Autor', 'Robert Fader'], ['Idioma', 'Español (en curso, 9 caps., 18 ilustraciones)'], ['Serie', 'Continuación de «Ostrovy nad Prahou»'], ['Escenario', '[[praga|Praga]] → [[mendoza|Mendoza]]'], ['Personajes', '[[jana]], [[luis]], [[antonio-ferrer]]'], ['Amenazas', '[[mulanima]], [[isla-flotante]]']],
+    sr: [['Аутор', 'Роберт Фадер'], ['Језик', 'Шпански (у писању, 9 поглавља, 18 илустрација)'], ['Серија', 'Наставак романа „Ostrovy nad Prahou“'], ['Место радње', '[[praga|Праг]] → [[mendoza|Мендоза]]'], ['Ликови', '[[jana]], [[luis]], [[antonio-ferrer]]'], ['Претње', '[[mulanima]], [[isla-flotante]]']]
+  },
+  es: `<p>«Luis tiene que viajar a Mendoza por una misión del Sur Místico, pero no se anima a contarle la verdad a Jana: le dice que va a visitar a su padre. Entre sus cosas, Jana encuentra una foto imposible: Luis, gigante, en medio de Belgrado. Decidida a descubrir su secreto, cruza medio mundo, se tiñe de rubio y se convierte en Yanina, la misteriosa reina de la Vendimia de la Capital».</p>
+<figure class="thumb"><img src="img/personajes/jana-2.jpg" alt="" data-cap="Jana, protagonista de la serie de Praga."><figcaption>Jana, protagonista de la serie de Praga.</figcaption></figure>
+<figure class="thumb"><img src="img/vendimia/05-1.jpg" alt="" data-cap="Yanina en el carro de la Vendimia."><figcaption>Yanina en el carro de la Vendimia.</figcaption></figure>
+<p>«Mientras Mendoza celebra la cosecha, bajo las ruinas de la ciudad colonial alguien despierta a un ser de la mitología huarpe. Y la única que puede hablarle es una reina que nadie conoce».</p>
+<h2>Relación con la saga</h2>
+<p>Es una continuación de la serie de Praga (<i>Podzemní tajemství</i>, <i>Ostrovy nad Prahou</i>), no de <i>La hora salvaje</i>, pero las une de forma explícita: Luis es «el agente del [[sur-mistico|Sur Místico]] que había sido gigante en Belgrado», y la novela menciona el dragón, la máquina de Venecia y las ciudades que salvó. Recupera escenarios de la saga —la [[vendimia]], Chacras de Coria, el Parque San Martín— y añade otros nuevos: el [[teatro-griego]], la [[mendoza-colonial|Mendoza subterránea]] y la [[isla-flotante]].</p>`,
+  sr: `<p>„Луис мора да отпутује у Мендозу на мисију Мистичног југа, али не сме да каже истину Јани: каже јој да иде да посети оца. Међу његовим стварима Јана проналази немогућу фотографију: Луис, див, усред Београда. Решена да открије његову тајну, прелази пола света, фарба косу у плаво и постаје Јанина, тајанствена краљица Вендимије главног града.“</p>
+<figure class="thumb"><img src="img/personajes/jana-2.jpg" alt="" data-cap="Јана, јунакиња прашке серије."><figcaption>Јана, јунакиња прашке серије.</figcaption></figure>
+<figure class="thumb"><img src="img/vendimia/05-1.jpg" alt="" data-cap="Јанина у колима Вендимије."><figcaption>Јанина у колима Вендимије.</figcaption></figure>
+<p>„Док Мендоза слави бербу, испод рушевина колонијалног града неко буди биће из митологије народа Уарпе. А једина која може да разговара са њим јесте краљица коју нико не познаје.“</p>
+<h2>Веза са сагом</h2>
+<p>То је наставак прашке серије (<i>Podzemní tajemství</i>, <i>Ostrovy nad Prahou</i>), а не „Дивљег часа“, али их изричито повезује: Луис је „агент [[sur-mistico|Мистичног југа]] који је био див у Београду“, а роман помиње змаја, машину у Венецији и градове које је спасао. Враћа места из саге — [[vendimia|Вендимију]], Чакрас де Корију, парк Сан Мартин — и додаје нова: [[teatro-griego|Грчки театар]], [[mendoza-colonial|подземну Мендозу]] и [[isla-flotante|летеће острво]].</p>`,
+  see: ['jana', 'mulanima', 'sur-mistico']
+}
 
 );
 
 /* ¿Sabías que…? / Да ли сте знали…? */
 window.WIKI.facts = {
   es: [
+    '…que [[roberto|Roberto]], el príncipe de la Venecia sumergida, es el hermano menor de Luis?',
+    '…que Luis trabaja para el [[sur-mistico|Sur Místico]], una organización secreta con sede en un convento de Sevilla?',
+    '…que en [[libro-tango]] Luis lleva once años con Natasha y todavía no se anima a bailar tango con ella?',
+    '…que el cubo de Rubik se convirtió para el autor en una forma de orden interior durante la pandemia?',
     '…que la saga nació porque un conocido estadounidense le dijo al autor que [[belgrado|Belgrado]] no le había gustado?',
     '…que el nombre completo de [[zmaj]] es «Змај Огњени Вук», como el héroe de la épica serbia?',
     '…que [[luis]] se convierte en gigante con una combinación del [[cubo-rubik]]: cruz blanca arriba, rojo dos veces abajo, azul a la izquierda y esquina amarilla adelante?',
@@ -191,6 +246,10 @@ window.WIKI.facts = {
     '…que una de las novelas, [[libro-praga]], está escrita en esperanto?'
   ],
   sr: [
+    '…да је [[roberto|Роберто]], принц потопљене Венеције, Луисов млађи брат?',
+    '…да Луис ради за [[sur-mistico|Мистични југ]], тајну организацију са седиштем у једном манастиру у Севиљи?',
+    '…да је у роману [[libro-tango]] Луис једанаест година са Наташом и још се не усуђује да с њом заигра танго?',
+    '…да је Рубикова коцка за аутора током пандемије постала облик унутрашњег реда?',
     '…да је сага настала зато што је један амерички познаник рекао аутору да му се [[belgrado|Београд]] није допао?',
     '…да је пуно име [[zmaj|Змаја]] „Змај Огњени Вук“, као јунак српске епике?',
     '…да [[luis|Луис]] постаје див помоћу комбинације на [[cubo-rubik|Рубиковој коцки]]: бели крст горе, црвено двапут доле, плаво лево и жути угао напред?',

@@ -137,5 +137,38 @@
 <p>Луис га најпре разоружава подсмехом — „чак и као легенда си губитник“ — а затим снагом; Наташа га побеђује ујелом датим „с љубављу према граду“. Поука: мржња се увеличава, али се смањује кад се суочи са конкретном љубављу према једном месту и његовим људима.</p>`,
   see: ['ala-artan', 'escena-batalla-ala']
 }
+,
+
+{
+  id: 'analogia-maquina', cat: 'analogias', order: 10, nuevo: true,
+  img: 'img/portadas/venecija-ru.jpg',
+  cap: { es: '«Венецианское колдовство».', sr: '„Венецијанско вештичарење“.' },
+  t: { es: 'La máquina veneciana y el discurso del resentimiento', sr: 'Венецијанска машина и говор озлојеђености' },
+  sum: { es: 'Un aparato que no miente, sino que halaga la frustración de los hombres hasta volverla odio.', sr: 'Направа која не лаже, него ласка фрустрацији мушкараца док је не претвори у мржњу.' },
+  info: { es: [['Elemento', '[[maquina-veneciana]], [[mcgregor]]'], ['Fenómeno real', 'Discursos que convierten la frustración en resentimiento y control']], sr: [['Елемент', '[[maquina-veneciana]], [[mcgregor]]'], ['Стварна појава', 'Говори који фрустрацију претварају у озлојеђеност и контролу']] },
+  es: `<p>Lo más inquietante de la [[maquina-veneciana]] es su voz. No promete riquezas ni amenaza: halaga. «Los subestimaron. Les enseñaron a avergonzarse de sí mismos. Les inculcaron que debían ganarse el derecho al respeto, al amor y hasta a su propia existencia… Trabajen, aguanten, adáptense, sean cómodos». Y luego: «La sociedad hace a los hombres útiles, pero no libres».</p>
+<p>Parte de lo que dice es verdad, y por eso funciona. La novela muestra cómo una frustración real puede ser <b>capturada</b> y dirigida hacia quienes están más cerca: los hombres hipnotizados se vuelven groseros y deseosos de mandar sobre las mujeres de su alrededor. [[mcgregor|McGregor]] lo resume como estratega: no creó esa debilidad, solo le permitió «crecer en la dirección correcta».</p>
+<h2>La respuesta</h2>
+<p>Frente a ello la saga no propone el desprecio, sino dos cosas. Por un lado, la calma organizada de las mujeres de San Marco, que asustan más que cualquier arma. Por otro, la honestidad de Roberto, que reconoce sus celos y su miedo a ser «el segundo» en lugar de convertirlos en violencia. La cúpula del miedo se rompe cuando las personas dejan de estar divididas.</p>`,
+  sr: `<p>Најузнемирујуће у [[maquina-veneciana|венецијанској машини]] јесте њен глас. Не обећава богатство и не прети: ласка. „Потцењивали су вас. Учили су вас да се стидите самих себе. Утувили су вам да морате да заслужите право на поштовање, на љубав, па чак и на сопствено постојање… Радите, трпите, прилагођавајте се, будите згодни.“ А затим: „Друштво мушкарце чини корисним, али не и слободним.“</p>
+<p>Део онога што говори је истина, и зато делује. Роман показује како стварна фрустрација може бити <b>заробљена</b> и усмерена на оне који су најближи: хипнотисани мушкарци постају груби и жељни да владају женама око себе. [[mcgregor|Макгрегор]] то сажима као стратег: није он створио ту слабост, само јој је допустио да „расте у правом смеру“.</p>
+<h2>Одговор</h2>
+<p>Сага на то не одговара презиром, него двема стварима. С једне стране, организованом мирноћом жена на тргу Светог Марка, које плаше више од сваког оружја. С друге, Робертовом искреношћу, који признаје своју љубомору и страх да ће бити „други“ уместо да их претвори у насиље. Купола страха се ломи када људи престану да буду подељени.</p>`,
+  see: ['maquina-veneciana', 'escena-ejercito-mujeres', 'escena-anticupula']
+},
+
+{
+  id: 'analogia-celos', cat: 'analogias', order: 11, nuevo: true,
+  img: 'img/personajes/natalia-venice-3.jpg',
+  cap: { es: 'Natalia, la rival que se volvió aliada.', sr: 'Наталија, супарница која је постала савезница.' },
+  t: { es: 'Natasha y Natalia: los celos y la alianza', sr: 'Наташа и Наталија: љубомора и савез' },
+  sum: { es: 'Dos mujeres parecidas que aprenden que no son rivales.', sr: 'Две сличне жене које уче да нису супарнице.' },
+  info: { es: [['Elementos', '[[natasa]], [[natalia-veneciana]]'], ['Tema', 'Celos, rivalidad femenina, alianza']], sr: [['Елементи', '[[natasa]], [[natalia-veneciana]]'], ['Тема', 'Љубомора, женско ривалство, савез']] },
+  es: `<p>Natasha y Natalia comparten casi el nombre, la belleza morena y la fuerza. Por eso la primera reacción de Natasha es la rivalidad: una mujer perfecta en la cocina, en el palacio, en la mirada de Luis. La novela trata esos celos con honestidad: son «ardientes, casi primordiales» y no se curan con un sermón.</p>
+<p>Lo que los disuelve es la crisis compartida. Cuando los hombres —incluidos Luis y Roberto— caen bajo la máquina, las dos se descubren del mismo lado y entienden que la competencia entre ellas era otra forma de división. Una mañana bajo el agua, Natasha nota que sus celos «ya no tenían poder sobre ella». El paralelo con [[roberto|Roberto]], que también vive comparándose con su hermano mayor, hace de la novela de Venecia un libro sobre lo que la comparación hace con el amor.</p>`,
+  sr: `<p>Наташа и Наталија деле скоро исто име, тамну лепоту и снагу. Зато је Наташина прва реакција ривалство: савршена жена у кухињи, у палати, у Луисовом погледу. Роман ту љубомору приказује искрено: она је „пламена, скоро исконска“ и не лечи се проповедима.</p>
+<p>Раствара је заједничка криза. Када мушкарци — међу њима Луис и Роберто — падну под машину, њих две открију да су на истој страни и схвате да је надметање међу њима био још један облик поделе. Једног јутра под водом Наташа примети да њена љубомора „више нема власт над њом“. Паралела са [[roberto|Робертом]], који такође живи поредећи се са старијим братом, чини роман о Венецији књигом о томе шта поређење ради љубави.</p>`,
+  see: ['natalia-veneciana', 'natasa', 'roberto']
+}
 
 );
